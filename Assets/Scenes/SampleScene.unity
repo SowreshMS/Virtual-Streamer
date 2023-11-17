@@ -711,7 +711,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5448610697066367942, guid: fc3056fce5f941c4db05470d057e3975, type: 3}
       propertyPath: FirstPersonOffset.x
-      value: -0.05723349
+      value: -0.057241097
       objectReference: {fileID: 0}
     - target: {fileID: 5448610697066367942, guid: fc3056fce5f941c4db05470d057e3975, type: 3}
       propertyPath: FirstPersonOffset.y
@@ -719,7 +719,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5448610697066367942, guid: fc3056fce5f941c4db05470d057e3975, type: 3}
       propertyPath: FirstPersonOffset.z
-      value: 0.048784718
+      value: 0.17961498
       objectReference: {fileID: 0}
     - target: {fileID: 7489060792645136344, guid: fc3056fce5f941c4db05470d057e3975, type: 3}
       propertyPath: m_Name
