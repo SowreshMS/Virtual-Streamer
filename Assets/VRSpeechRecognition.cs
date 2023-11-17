@@ -23,7 +23,7 @@ public class VRSpeechRecognition : MonoBehaviour
 
         // Start recording from the selected microphone
         AudioClip audioClip = Microphone.Start(selectedMicrophone, true, 100, 44100);
-        Microphone.End(selectedMicrophone);
+        //Microphone.End(selectedMicrophone);
 
 
         // Wait for the microphone to start recording
