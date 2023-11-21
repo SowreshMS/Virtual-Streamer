@@ -1,95 +1,34 @@
+using System;
 using UnityEngine;
-using UnityEngine.UI;
+using System.Diagnostics;
 
-namespace OpenAI
+
+public class VRSpeechRecognition : MonoBehaviour
 {
-    public class VRSpeechRecognition : MonoBehaviour
+    void Start()
     {
-        [SerializeField] private Button recordButton;
-        [SerializeField] private Image progressBar;
-        [SerializeField] private Text message;
-        [SerializeField] private Dropdown dropdown;
+        // Path to your Python script
+        string pythonScriptPath = "C:\\Users\\Spher\\Downloads\\sockets.py";
 
-        private readonly string fileName = "output.wav";
-        private readonly int duration = 5;
-
-        private AudioClip clip;
-        private bool isRecording;
-        private float time;
-        private OpenAIApi openai = new OpenAIApi();
-
-        private void Start()
+        // Create a process to run the Python script
+        Process process = new Process
         {
-#if UNITY_WEBGL && !UNITY_EDITOR
-            dropdown.options.Add(new Dropdown.OptionData("Microphone not supported on WebGL"));
-#else
-            foreach (var device in Microphone.devices)
+            StartInfo = new ProcessStartInfo
             {
-                dropdown.options.Add(new Dropdown.OptionData(device));
+                FileName = "python",
+                Arguments = $"{pythonScriptPath}",
+                UseShellExecute = false,
+                RedirectStandardOutput = true,
+                CreateNoWindow = true
             }
-            recordButton.onClick.AddListener(StartRecording);
-            dropdown.onValueChanged.AddListener(ChangeMicrophone);
+        };
 
-            var index = PlayerPrefs.GetInt("user-mic-device-index");
-            dropdown.SetValueWithoutNotify(index);
-#endif
-        }
+        // Start the process and capture its output
+        process.Start();
+        string output = process.StandardOutput.ReadToEnd();
+        process.WaitForExit();
 
-        private void ChangeMicrophone(int index)
-        {
-            PlayerPrefs.SetInt("user-mic-device-index", index);
-        }
-
-        private void StartRecording()
-        {
-            isRecording = true;
-            recordButton.enabled = false;
-
-            var index = PlayerPrefs.GetInt("user-mic-device-index");
-
-#if !UNITY_WEBGL
-            clip = Microphone.Start(dropdown.options[index].text, false, duration, 44100);
-#endif
-        }
-
-        private async void EndRecording()
-        {
-            message.text = "Transcripting...";
-
-#if !UNITY_WEBGL
-            Microphone.End(null);
-#endif
-
-            byte[] data = SaveWav.Save(fileName, clip);
-
-            var req = new CreateAudioTranscriptionsRequest
-            {
-                FileData = new FileData() { Data = data, Name = "audio.wav" },
-                // File = Application.persistentDataPath + "/" + fileName,
-                Model = "whisper-1",
-                Language = "en"
-            };
-            var res = await openai.CreateAudioTranscription(req);
-
-            progressBar.fillAmount = 0;
-            message.text = res.Text;
-            recordButton.enabled = true;
-        }
-
-        private void Update()
-        {
-            if (isRecording)
-            {
-                time += Time.deltaTime;
-                progressBar.fillAmount = time / duration;
-
-                if (time >= duration)
-                {
-                    time = 0;
-                    isRecording = false;
-                    EndRecording();
-                }
-            }
-        }
+        // Do something with the output (e.g., update Unity UI)
+        UnityEngine.Debug.Log(output);
     }
 }
