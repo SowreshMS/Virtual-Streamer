@@ -24,7 +24,7 @@ public class VRSpeechRecognition : MonoBehaviour
     {
         UnityEngine.Debug.Log("Python time");
 
-        string pythonScriptPath = @"C:/Users/Spher/Downloads/sockets.py";
+        string pythonScriptPath = System.IO.Path.Combine(Application.dataPath, "sockets.py");
 
         pythonProcess = new Process
         {
