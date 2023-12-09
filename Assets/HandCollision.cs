@@ -1,15 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Bhaptics.SDK2;
+using System.Diagnostics;
 
 public class HandCollision : MonoBehaviour
 {
     [SerializeField] private GameObject rig;
     GameObject avatar;
+    GameObject hands;
     // Start is called before the first frame update
     void Start()
     {
         avatar = GameObject.FindGameObjectWithTag("Avatar");
+        hands = GameObject.FindGameObjectWithTag("Avatar Hands");
     }
 
     // Update is called once per frame
@@ -24,6 +28,35 @@ public class HandCollision : MonoBehaviour
         {
             rig.gameObject.SetActive(false);
         }
+        if (Vector3.Distance(transform.position, hands.transform.position) < 2.0f)
+        {
+            TestHaptic();
+        }
+        else
+        {
+        }
+    }
+
+    public void TestHaptic()
+    {
+        BhapticsLibrary.Play("left_hand");
+        BhapticsLibrary.Play("right_hand");
+
+        /*BhapticsLibrary.PlayParam("left_hand",
+            intensity: 1f,  // The value multiplied by the original value
+            duration: 2f,   // The value multiplied by the original value
+            angleX: 20f,    // The value that rotates around global Vector3.up(0~360f)
+            offsetY: 0.3f   // The value to move up and down(-0.5~0.5)
+            );
+
+        BhapticsLibrary.PlayParam("right_hand",
+            intensity: 1f,  // The value multiplied by the original value
+            duration: 2f,   // The value multiplied by the original value
+            angleX: 20f,    // The value that rotates around global Vector3.up(0~360f)
+            offsetY: 0.3f   // The value to move up and down(-0.5~0.5)
+            ); */
+
+        //BhapticsLibrary.StopAll();
     }
     private void OnTriggerEnter(Collider other)
     {
