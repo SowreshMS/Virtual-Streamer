@@ -2395,6 +2395,14 @@ PrefabInstance:
       propertyPath: m_BlendShapeWeights.Array.size
       value: 57
       objectReference: {fileID: 0}
+    - target: {fileID: 1976717568925331675, guid: b56907b826b0df846bcac8696a30b32b, type: 3}
+      propertyPath: m_TagString
+      value: Avatar Hands
+      objectReference: {fileID: 0}
+    - target: {fileID: 2919614008340633864, guid: b56907b826b0df846bcac8696a30b32b, type: 3}
+      propertyPath: m_TagString
+      value: Avatar Hands
+      objectReference: {fileID: 0}
     - target: {fileID: 3837131806068852380, guid: b56907b826b0df846bcac8696a30b32b, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.25
