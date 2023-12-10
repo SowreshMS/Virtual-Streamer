@@ -11,11 +11,13 @@ public class HandCollision : MonoBehaviour
     
     GameObject avatar;
     GameObject hands;
+    Animator animator;
     // Start is called before the first frame update
     void Start()
     {
         avatar = GameObject.FindGameObjectWithTag("Avatar");
         hands = GameObject.FindGameObjectWithTag("Avatar Hands");
+        animator = avatar.GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -24,13 +26,15 @@ public class HandCollision : MonoBehaviour
         // Check for collision with the avatar
         if (Vector3.Distance(transform.position, avatar.transform.position) < 2.0f)
         {
-            rig.gameObject.SetActive(true);
-            avatar.GetComponent<RigBuilder>().enabled = true;
+            // rig.gameObject.SetActive(true);
+            // avatar.GetComponent<RigBuilder>().enabled = true;
+            animator.SetBool("Shaking", true);
         }
         else
         {
-            rig.gameObject.SetActive(false);
-            avatar.GetComponent<RigBuilder>().enabled = false;
+            // rig.gameObject.SetActive(false);
+            // avatar.GetComponent<RigBuilder>().enabled = false;
+            animator.SetBool("Shaking", false);
         }
         if (Vector3.Distance(transform.position, hands.transform.position) < 0.5f)
         {

@@ -457,7 +457,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2306.893
+      value: -2307.189
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_LocalPosition.y
@@ -465,7 +465,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1700.905
+      value: 1702.011
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2873,8 +2873,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1067810955}
   - component: {fileID: 1067810956}
-  - component: {fileID: 1067810957}
-  - component: {fileID: 1067810958}
   m_Layer: 0
   m_Name: Rig 1
   m_TagString: Untagged
@@ -2945,39 +2943,6 @@ MonoBehaviour:
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0}
     m_Visible: 1
---- !u!114 &1067810957
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1067810954}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 44bda3651a720a64999d46464e1df0fa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerLeftHand: {fileID: 224383769}
-  playerRightHand: {fileID: 224383768}
-  characterLeftHand: {fileID: 106167442}
-  characterRightHand: {fileID: 1585908236}
-  rotationSpeed: 5
---- !u!114 &1067810958
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1067810954}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b7bdbaf9c04d4e4eb3ebfc05aaf72f8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  userRightHand: {fileID: 1350294272}
-  userLeftHand: {fileID: 771582701}
-  avatarFollowRightHand: {fileID: 85730364}
-  avatarFollowLeftHand: {fileID: 1265311212}
 --- !u!4 &1068223466 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1275965843532929839, guid: b56907b826b0df846bcac8696a30b32b, type: 3}
