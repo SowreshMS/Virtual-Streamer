@@ -30,8 +30,12 @@ public class HandFollow : MonoBehaviour
         currPosLH = userLeftHand.transform.position;
         changeRH = currPosRH - prevPosRH;
         changeLH = currPosLH - prevPosLH;
-        avatarFollowRightHand.transform.position += changeRH;
-        avatarFollowLeftHand.transform.position += changeLH;
+        changeRH.x *= -1f;
+        changeLH.x *= -1f;
+        changeRH.z *= -1f;
+        changeLH.z *= -1f;
+        avatarFollowRightHand.transform.position += 0.75f * changeRH;
+        avatarFollowLeftHand.transform.position += 0.75f * changeLH;
         prevPosRH = currPosRH;
         prevPosLH = currPosLH;
     }
