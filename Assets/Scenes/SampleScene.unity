@@ -173,8 +173,8 @@ Transform:
   m_GameObject: {fileID: 85730364}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2306.653, y: 1.639, z: 1703.503}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -2306.196, y: 1.639, z: 1702.968}
+  m_LocalScale: {x: 0.08, y: 0.08, z: 0.08}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -413,7 +413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98a89b4f42996f74d84e4cfd072da02f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  followObject: {fileID: 1350294272}
+  followObject: {fileID: 85730364}
   followSpeed: 30
   rotateSpeed: 100
   positionOffset: {x: 0, y: 0, z: 0}
@@ -1394,7 +1394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98a89b4f42996f74d84e4cfd072da02f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  followObject: {fileID: 771582701}
+  followObject: {fileID: 1265311212}
   followSpeed: 30
   rotateSpeed: 100
   positionOffset: {x: 0, y: 0, z: 0}
@@ -2861,6 +2861,7 @@ GameObject:
   - component: {fileID: 1067810955}
   - component: {fileID: 1067810956}
   - component: {fileID: 1067810957}
+  - component: {fileID: 1067810958}
   m_Layer: 0
   m_Name: Rig 1
   m_TagString: Untagged
@@ -2948,6 +2949,22 @@ MonoBehaviour:
   characterLeftHand: {fileID: 106167442}
   characterRightHand: {fileID: 1585908236}
   rotationSpeed: 5
+--- !u!114 &1067810958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1067810954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b7bdbaf9c04d4e4eb3ebfc05aaf72f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  userRightHand: {fileID: 1350294272}
+  userLeftHand: {fileID: 771582701}
+  avatarFollowRightHand: {fileID: 85730364}
+  avatarFollowLeftHand: {fileID: 1265311212}
 --- !u!4 &1068223466 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1275965843532929839, guid: b56907b826b0df846bcac8696a30b32b, type: 3}
@@ -3205,8 +3222,8 @@ Transform:
   m_GameObject: {fileID: 1265311212}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2307.2954, y: 2.7221613, z: 1702.6001}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -2306.09, y: 1.62, z: 1702.938}
+  m_LocalScale: {x: 0.08, y: 0.08, z: 0.08}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
