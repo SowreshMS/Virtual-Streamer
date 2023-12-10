@@ -28,7 +28,7 @@ public class HandCollision : MonoBehaviour
         {
             rig.gameObject.SetActive(false);
         }
-        if (Vector3.Distance(transform.position, hands.transform.position) < 2.0f)
+        if (Vector3.Distance(transform.position, hands.transform.position) < 1.0f)
         {
             TestHaptic();
         }
