@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using Bhaptics.SDK2;
 using System.Diagnostics;
+using UnityEngine.Animations.Rigging;
 
 public class HandCollision : MonoBehaviour
 {
     [SerializeField] private GameObject rig;
+    
     GameObject avatar;
     GameObject hands;
     // Start is called before the first frame update
@@ -23,12 +25,14 @@ public class HandCollision : MonoBehaviour
         if (Vector3.Distance(transform.position, avatar.transform.position) < 2.0f)
         {
             rig.gameObject.SetActive(true);
+            avatar.GetComponent<RigBuilder>().enabled = true;
         }
         else
         {
-            //rig.gameObject.SetActive(false);
+            rig.gameObject.SetActive(false);
+            avatar.GetComponent<RigBuilder>().enabled = false;
         }
-        if (Vector3.Distance(transform.position, hands.transform.position) < 1.0f)
+        if (Vector3.Distance(transform.position, hands.transform.position) < 0.5f)
         {
             TestHaptic();
         }
@@ -41,7 +45,8 @@ public class HandCollision : MonoBehaviour
     {
         BhapticsLibrary.Play("left_hand");
         BhapticsLibrary.Play("right_hand");
-
+        BhapticsLibrary.Play("vest");
+        
         /*BhapticsLibrary.PlayParam("left_hand",
             intensity: 1f,  // The value multiplied by the original value
             duration: 2f,   // The value multiplied by the original value

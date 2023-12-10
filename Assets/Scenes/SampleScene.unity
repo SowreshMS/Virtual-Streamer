@@ -1808,6 +1808,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 738520118}
+  - component: {fileID: 738520119}
   m_Layer: 0
   m_Name: GameObject (1)
   m_TagString: Untagged
@@ -1830,6 +1831,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &738520119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 738520117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3c9a095ff50b654090b523a790a7a1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &751290271 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8897502245624006024, guid: b56907b826b0df846bcac8696a30b32b, type: 3}
@@ -2826,7 +2839,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1013141582}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fff0960ef4ea6e04eac66b4a7fd2189d, type: 3}
   m_Name: 
@@ -2868,7 +2881,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1067810955
 Transform:
   m_ObjectHideFlags: 0
@@ -3570,7 +3583,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5545b4aa0573e4c96b26e3b6d6514d5f, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 0b67b77177a2b5746a08fbb3875004d6, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1

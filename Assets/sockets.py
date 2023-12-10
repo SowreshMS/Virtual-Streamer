@@ -15,6 +15,37 @@ conversation = [
     
 ]
 
+response = "Hi, welcome to the stream"
+client = texttospeech.TextToSpeechClient()
+
+# response = message.content + "? " + response
+ssml_text = '<speak>'
+response_counter = 0
+mark_array = []
+for s in response.split(' '):
+    ssml_text += f'<mark name="{response_counter}"/>{s}'
+    mark_array.append(s)
+    response_counter += 1
+ssml_text += '</speak>'
+
+input_text = texttospeech.SynthesisInput(ssml=ssml_text)
+
+voice = texttospeech.VoiceSelectionParams(
+    language_code="en-US",
+    name="en-US-Neural2-F",
+    ssml_gender=texttospeech.SsmlVoiceGender.FEMALE,
+)
+
+audio_config = texttospeech.AudioConfig(
+    audio_encoding=texttospeech.AudioEncoding.MP3,
+)
+
+response = client.synthesize_speech(
+    request={"input": input_text, "voice": voice, "audio_config": audio_config, "enable_time_pointing": ["SSML_MARK"]}
+)
+
+
+
 def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as infile:
         return infile.read()
