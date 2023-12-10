@@ -26,7 +26,7 @@ public class HandCollision : MonoBehaviour
         }
         else
         {
-            rig.gameObject.SetActive(false);
+            //rig.gameObject.SetActive(false);
         }
         if (Vector3.Distance(transform.position, hands.transform.position) < 1.0f)
         {
