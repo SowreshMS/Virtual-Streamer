@@ -24,11 +24,12 @@ public class HandCollision : MonoBehaviour
     void Update()
     {
         // Check for collision with the avatar
-        if (Vector3.Distance(transform.position, avatar.transform.position) < 2.0f)
+        if (Vector3.Distance(transform.position, hands.transform.position) < 1.5f)
         {
             // rig.gameObject.SetActive(true);
             // avatar.GetComponent<RigBuilder>().enabled = true;
             animator.SetBool("Shaking", true);
+            TestHaptic();
         }
         else
         {
@@ -36,12 +37,15 @@ public class HandCollision : MonoBehaviour
             // avatar.GetComponent<RigBuilder>().enabled = false;
             animator.SetBool("Shaking", false);
         }
-        if (Vector3.Distance(transform.position, hands.transform.position) < 0.5f)
+        if (Vector3.Distance(transform.position, avatar.transform.position) < 1.0f)
         {
-            TestHaptic();
+            rig.gameObject.SetActive(true);
+            avatar.GetComponent<RigBuilder>().enabled = true;
         }
         else
         {
+            rig.gameObject.SetActive(false);
+            avatar.GetComponent<RigBuilder>().enabled = false;
         }
     }
 
