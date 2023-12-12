@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Avatar
   - Avatar Hands
+  - Avatar Spine
+  - RH Follow
+  - LH Follow
+  - RH Location
+  - LH Location
   layers:
   - Default
   - TransparentFX
