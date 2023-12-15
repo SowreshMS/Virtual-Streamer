@@ -11,6 +11,7 @@ TagManager:
   - LH Follow
   - RH Location
   - LH Location
+  - Text
   layers:
   - Default
   - TransparentFX

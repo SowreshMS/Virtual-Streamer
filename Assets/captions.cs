@@ -1,42 +1,61 @@
 using UnityEngine;
+using System;
 using System.IO;
+using TMPro;
 
-public class captions : MonoBehaviour
+public class Captions : MonoBehaviour
 {
-    public Transform targetObject; // Assign the target object in the Inspector
-    public Canvas canvasToMove; // Assign the canvas to move in the Inspector
+    public Transform targetObject;
+    private TextMeshPro textMesh;
 
     void Start()
     {
-        if (targetObject == null || canvasToMove == null)
+        // Find the TextMeshPro object by tag
+        GameObject textObject = GameObject.FindGameObjectWithTag("Text");
+
+        // Check if the text object exists
+        if (textObject != null)
         {
-            Debug.LogError("Please assign the target object and canvas to move in the Inspector.");
-            return;
+            // Get the TextMeshPro component
+            textMesh = textObject.GetComponent<TextMeshPro>();
+        }
+        else
+        {
+            Debug.LogError("Text object with tag 'Text' not found in the scene.");
         }
 
-        // Load text from "speaker.txt" and display it on the canvas (assuming TextMeshPro)
-        // TextAsset textAsset = Resources.Load<TextAsset>("speaker");
-       
-        canvasToMove.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = File.ReadAllText(Path.Combine(Application.dataPath, "speaker.txt"));
+        // Set initial position
+        MoveTextToTargetPosition();
+    }
+
+    void Update()
+    {
+        try 
+        {
+            // Update text
+            if (textMesh != null)
+            {
+                textMesh.text = File.ReadAllText(Path.Combine(Application.dataPath, "speaker.txt"));
+            }
+            //textMesh.text = "How are you doing today.";
+        }
+        catch (Exception ex) {
+            Debug.Log("An error occurred while reading the file: " + ex.Message);
+        }
+
+    }
+
+    void MoveTextToTargetPosition()
+    {
+        // Check if the headset is active (in VR mode)
+        bool isVRActive = OVRManager.isHmdPresent;
+
         
-
-        MoveCanvasToTargetPosition();
-    }
-
-    void MoveCanvasToTargetPosition()
-    {
-        // Get the target position from the target object
-        Vector3 targetPosition = targetObject.position;
-
-        // Convert the target position to screen space
-        Vector3 screenPosition = Camera.main.WorldToScreenPoint(targetPosition);
-
-        // Set the canvas position to the screen position
-        canvasToMove.transform.position = screenPosition;
-    }
-
-    void update()
-    {
-        canvasToMove.GetComponentInChildren<TMPro.TextMeshProUGUI>().text = File.ReadAllText(Path.Combine(Application.dataPath, "speaker.txt"));
+        // If VR is not active, move the text to the target position
+        if (targetObject != null)
+        {
+            textMesh.transform.position = targetObject.transform.position;
+        }
+        
     }
 }

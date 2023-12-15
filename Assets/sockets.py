@@ -8,7 +8,7 @@ import threading
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"C:\Users\Spher\OneDrive\Desktop\CS\AI\Kuebiko\AI-Virtual_Streamer\polynomial-land-400201-c0247bbd8ec8.json"
 
-openai.api_key = "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"
+openai.api_key = "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"
 openai.api_base = 'https://api.openai.com/v1/chat'
 
 conversation = [
@@ -45,7 +45,6 @@ response = client.synthesize_speech(
 )
 
 
-
 def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as infile:
         return infile.read()
@@ -67,23 +66,26 @@ def gpt3_completion(messages, engine='gpt-3.5-turbo', temp=0.9, tokens=100, freq
 def captions(mark_array, response):
     count = 0
     current = 0
-    for i in range(len(response.timepoints)):
-        count += 1
-        current += 1
-        with open("output.txt", "a", encoding="utf-8") as out:
-            out.write(mark_array[int(response.timepoints[i].mark_name)] + " ")
-        if i != len(response.timepoints) - 1:
-            total_time = response.timepoints[i + 1].time_seconds
-            time.sleep(total_time - response.timepoints[i].time_seconds)
-        if current == 25:
-                open('output.txt', 'w', encoding="utf-8").close()
-                current = 0
-                count = 0
-        elif count % 7 == 0:
-            with open("output.txt", "a", encoding="utf-8") as out:
-                out.write("\n")
-    time.sleep(2)
-    open('output.txt', 'w').close()
+    try: 
+        for i in range(len(response.timepoints)):
+            count += 1
+            current += 1
+            with open(r"C:\Users\Spher\Virtual-Streamer\Assets\speaker.txt", "a", encoding="utf-8") as out:
+                out.write(mark_array[int(response.timepoints[i].mark_name)] + " ")
+            if i != len(response.timepoints) - 1:
+                total_time = response.timepoints[i + 1].time_seconds
+                time.sleep(total_time - response.timepoints[i].time_seconds)
+            if current == 25:
+                    open(r"C:\Users\Spher\Virtual-Streamer\Assets\speaker.txt", 'w', encoding="utf-8").close()
+                    current = 0
+                    count = 0
+            elif count % 7 == 0:
+                with open(r"C:\Users\Spher\Virtual-Streamer\Assets\speaker.txt", "a", encoding="utf-8") as out:
+                    out.write("\n")
+        time.sleep(2)
+        open(r"C:\Users\Spher\Virtual-Streamer\Assets\speaker.txt", 'w').close()
+    except:
+        pass
 
 # Function to generate and play audio from binary audio data
 def text_to_speech_and_play(audio_content):
@@ -104,6 +106,17 @@ def text_to_speech_and_play(audio_content):
 
     # Quit the mixer
     pygame.mixer.quit()
+
+time_thread = threading.Thread(target=text_to_speech_and_play, args=(response.audio_content,))
+time2_thread = threading.Thread(target=captions, args=(mark_array, response))
+
+
+time2_thread.start()
+time_thread.start()
+
+
+time_thread.join()
+time2_thread.join()
 
 recognizer = sr.Recognizer()
 
