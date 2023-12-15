@@ -3254,3 +3254,17 @@ Time taken for GPT to generate response 0.8175492286682129
 Time taken to turn text into audio file: 0.18581366539001465
 Time to speak audio: 4.271603107452393
 The entire process took: 11.333199501037598 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 19.635448932647705You said: specific location facing that way and then it's going to be like a easy open area to walk to her 
+Time taken to transcribe audio 20.08640742301941GPT said Yes, it sounds like a nice and easy path to follow.
+Time taken for GPT to generate response 0.4852874279022217
+GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 1.3428657054901123
+Time taken to turn text into audio file: 0.6999142169952393
+Time taken to turn text into audio file: 0.1274421215057373
+Time to speak audio: 2.971830368041992
+The entire process took: 24.07967734336853 seconds 
+Time to speak audio: 4.776163101196289
+The entire process took: 26.04946494102478 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 7.544353485107422

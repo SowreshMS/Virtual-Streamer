@@ -8,7 +8,7 @@ import threading
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"C:\Users\Spher\OneDrive\Desktop\CS\AI\Kuebiko\AI-Virtual_Streamer\polynomial-land-400201-c0247bbd8ec8.json"
 
-openai.api_key = "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"
+openai.api_key = "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"
 openai.api_base = 'https://api.openai.com/v1/chat'
 
 conversation = [
