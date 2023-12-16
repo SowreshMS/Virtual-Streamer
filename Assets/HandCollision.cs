@@ -55,7 +55,7 @@ public class HandCollision : MonoBehaviour
             LHFollow.transform.position = Vector3.MoveTowards(LHFollow.transform.position, LHLocation.transform.position, 0.01f);
         }
         // Check if the distance between the user hand and the avatar hand is less than 1.25f
-        else if (Vector3.Distance(transform.position, hands.transform.position) < 2.0f)
+        else if (Vector3.Distance(transform.position, hands.transform.position) < 1.25f)
         {
             RHFollow.transform.position = Vector3.MoveTowards(RHFollow.transform.position, prevPosRH, 0.01f);
             LHFollow.transform.position = Vector3.MoveTowards(LHFollow.transform.position, prevPosLH, 0.01f);

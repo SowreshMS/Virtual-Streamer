@@ -5,10 +5,14 @@ import pygame
 from google.cloud import texttospeech_v1beta1 as texttospeech
 import time
 import threading
+import keyboard
 
+with open(r"C:\Users\Spher\Virtual-Streamer\Assets\speaker.txt", "w", encoding="utf-8") as out:
+        out.write("")
+        
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"C:\Users\Spher\OneDrive\Desktop\CS\AI\Kuebiko\AI-Virtual_Streamer\polynomial-land-400201-c0247bbd8ec8.json"
 
-openai.api_key = "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"
+openai.api_key = "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"
 openai.api_base = 'https://api.openai.com/v1/chat'
 
 conversation = [
@@ -126,48 +130,69 @@ file_path = os.path.join(os.path.dirname(__file__), 'logs.txt')
 
 while True:
     start = time.time()
-    time.sleep(2)
-    # Record audio from the microphone
-    with sr.Microphone() as source:
-        print("Say something:")
-        audio = recognizer.listen(source)
+    # time.sleep(0.5)
+    # #Record audio from the microphone
+    # with sr.Microphone() as source:
+    #     print("Say something:")
+    #     audio = recognizer.listen(source)
 
-        try:
-            text = recognizer.recognize_google(audio)
-            print(f"You said: {text}")
+    #     try:
+    #         text = recognizer.recognize_google(audio)
+    #         print(f"You said: {text}")
 
-        except sr.UnknownValueError:
-            print("Speech Recognition could not understand audio")
-            text = "Say \"I am sorry but I was not able to understand you\""
-        except sr.RequestError as e:
-            print(f"Could not request results from Google Speech Recognition service; {e}")
-            text = "Say \"Could not request results from Google Speech Recognition service\""
+    #     except sr.UnknownValueError:
+    #         print("Speech Recognition could not understand audio")
+    #         text = "Say \"I am sorry but I was not able to understand you\""
+    #     except sr.RequestError as e:
+    #         print(f"Could not request results from Google Speech Recognition service; {e}")
+    #         text = "Say \"Could not request results from Google Speech Recognition service\""
+            
+    # with open(file_path, 'a') as file3:
+    #     file3.write(f"You said: {text} \n")
 
-    with open(file_path, 'a') as file3:
-        file3.write(f"You said: {text} \n")
-
-    conversation.append({"role": "user", "content": text})
+    # conversation.append({"role": "user", "content": text})
     
-    print(f"Time taken to transcribe audio {time.time() - start}")
+    # print(f"Time taken to transcribe audio {time.time() - start}")
 
-    with open(file_path, 'a') as file3:
-        file3.write(f"Time taken to transcribe audio {time.time() - start}")
+    # with open(file_path, 'a') as file3:
+    #     file3.write(f"Time taken to transcribe audio {time.time() - start}")
 
     start2 = time.time()
-    response = gpt3_completion(conversation)
+    # response = gpt3_completion(conversation)
+    # response = "Hi how are you doing"
     # print(f"GPT-3 Response: {response}")
 
-    conversation.append({"role": "assistant", "content": response})
+    while True:
+        if keyboard.is_pressed("q"):
+            response = "Hi, welcome"
+            break
+        elif keyboard.is_pressed("w"):
+            response = "I am Vivi, a streamer from the year 2050, where the real world and the virtual world collide into one."
+            break
+        elif keyboard.is_pressed("e"):
+            response = "I am doing good, how about you."
+            break
+        elif keyboard.is_pressed("r"):
+            response = "Sure, I would love to play flappy bird"
+            break
+        elif keyboard.is_pressed("t"):
+            response = "My highest score is 100, but I would love to beat it!"
+            break
+        elif keyboard.is_pressed("y"):
+            response = "Bye!"
+            break
 
-    with open(file_path, 'a') as file3:
-        file3.write(f"GPT said {response}\n")
+    # conversation.append({"role": "assistant", "content": response})
 
-    with open(file_path, 'a') as file3:
-        file3.write(f"Time taken for GPT to generate response {time.time() - start2}\n")
+    # with open(file_path, 'a') as file3:
+    #     file3.write(f"GPT said {response}\n")
+
+    # with open(file_path, 'a') as file3:
+    #     file3.write(f"Time taken for GPT to generate response {time.time() - start2}\n")
     
-    print(f"Time taken for GPT to generate response {time.time() - start2}\n")
+    # print(f"Time taken for GPT to generate response {time.time() - start2}\n")
 
-    start3 = time.time()
+    # start3 = time.time()
 
     client = texttospeech.TextToSpeechClient()
 
@@ -197,10 +222,10 @@ while True:
         request={"input": input_text, "voice": voice, "audio_config": audio_config, "enable_time_pointing": ["SSML_MARK"]}
     )
 
-    with open(file_path, 'a') as file3:
-        file3.write(f"Time taken to turn text into audio file: {time.time() - start3}\n")
+    # with open(file_path, 'a') as file3:
+    #     file3.write(f"Time taken to turn text into audio file: {time.time() - start3}\n")
 
-    print(f"Time taken to turn text into audio file: {time.time() - start3}\n")
+    # print(f"Time taken to turn text into audio file: {time.time() - start3}\n")
 
     # The response's audio_content is binary.
     start4 = time.time()
@@ -215,7 +240,10 @@ while True:
     
     time_thread.join()
     time2_thread.join()
-    
+
+
+    with open(r"C:\Users\Spher\Virtual-Streamer\Assets\speaker.txt", "w", encoding="utf-8") as out:
+        out.write("")
 
 
     

@@ -3267,4 +3267,1075 @@ The entire process took: 24.07967734336853 seconds
 Time to speak audio: 4.776163101196289
 The entire process took: 26.04946494102478 seconds 
 You said: Say "I am sorry but I was not able to understand you" 
-Time taken to transcribe audio 7.544353485107422
+Time taken to transcribe audio 7.544353485107422You said: oh that's so bad it's just lazy to change it 
+Time taken to transcribe audio 9.215462684631348You said: it just comes back to will it just like 
+Time taken to transcribe audio 6.571914196014404GPT said Yes, it will come back.
+Time taken for GPT to generate response 0.6505632400512695
+Time taken to turn text into audio file: 0.24327707290649414
+Time to speak audio: 3.1131014823913574
+The entire process took: 10.58139944076538 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 6.88326621055603GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.5044205188751221
+Time taken to turn text into audio file: 0.12294578552246094
+Time to speak audio: 4.260087490081787
+The entire process took: 11.77327823638916 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 7.6309285163879395GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7198953628540039
+Time taken to turn text into audio file: 0.12182784080505371
+Time to speak audio: 4.2613513469696045
+The entire process took: 12.736034393310547 seconds 
+You said: it's just with the Beehive except that's it 
+Time taken to transcribe audio 7.979802131652832GPT said Yes, I am willing to play the game.
+Time taken for GPT to generate response 1.0191020965576172
+Time taken to turn text into audio file: 0.3014037609100342
+Time to speak audio: 3.71354341506958
+The entire process took: 13.015389204025269 seconds 
+You said: Pitbull horny conversation easier just something I could add after this cuz it feels a little dry I think that maybe had another sentence and then I just wanted to talk about how we used it like one more 
+Time taken to transcribe audio 23.594710111618042GPT said Sorry, but I don't think I can help with that request.
+Time taken for GPT to generate response 0.6644577980041504
+Time taken to turn text into audio file: 0.28509950637817383
+Time to speak audio: 3.9891598224639893
+The entire process took: 28.53443193435669 seconds 
+You said: at the end I want to see the ultimately generate a response and I'd be good transition to this but like 
+Time taken to transcribe audio 12.808683395385742GPT said I'm sorry, I don't understand what you're asking. Could you please clarify your request?
+Time taken for GPT to generate response 1.1212337017059326
+Time taken to turn text into audio file: 0.2850933074951172
+You said: can I have this as the background image for the game menu 
+Time taken to transcribe audio 24.73578381538391GPT said I'm sorry, but as a text-based AI, I cannot view or interact with images. Is there anything else I can help you with?
+Time taken for GPT to generate response 1.0121490955352783
+Time taken to turn text into audio file: 0.3709900379180908
+You said: can I have this as the background image for the game menu 
+Time taken to transcribe audio 26.652225017547607GPT said Sorry, I am unable to view or modify images as I am a text-based AI.
+Time taken for GPT to generate response 0.6446468830108643
+Time taken to turn text into audio file: 0.46536898612976074
+Time to speak audio: 0.8348939418792725
+The entire process took: 28.59921145439148 seconds 
+Time to speak audio: 9.920994997024536
+The entire process took: 36.04097247123718 seconds 
+You said: so it's for the screen picture but okay so which color do you want this 
+Time taken to transcribe audio 11.142964124679565GPT said As an AI, I don't have personal preferences or the ability to perceive colors. You can choose any color you like for the background image of your game menu!
+Time taken for GPT to generate response 0.7944381237030029
+Time taken to turn text into audio file: 0.7341148853302002
+You said: yes but 
+Time taken to transcribe audio 6.050994634628296GPT said I'm sorry, but as a text-based AI, I am unable to view or interact with images. Is there anything else I can assist you with?
+Time taken for GPT to generate response 1.304349422454834
+Time taken to turn text into audio file: 0.42371320724487305
+Time to speak audio: 3.3510050773620605
+The entire process took: 11.131632328033447 seconds 
+Time to speak audio: 10.577723741531372
+The entire process took: 23.251365184783936 seconds 
+You said: can you pass me a question 
+Time taken to transcribe audio 7.891081809997559GPT said Sure! Here's a question for you: What is your favorite childhood memory?
+Time taken for GPT to generate response 0.6925754547119141
+Time taken to turn text into audio file: 0.3117997646331787
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 4.734739780426025GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6468727588653564
+Time taken to turn text into audio file: 0.11817002296447754
+Time to speak audio: 4.260787725448608
+The entire process took: 9.7610924243927 seconds 
+Time to speak audio: 5.520886182785034
+The entire process took: 14.417379140853882 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 5.087437391281128You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 5.3295066356658936GPT said I'm sorry, but I was not able to understand you.
+Time taken for GPT to generate response 0.44449901580810547
+GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6307151317596436
+Time taken to turn text into audio file: 0.4046440124511719
+Time taken to turn text into audio file: 0.15326952934265137
+Time to speak audio: 4.2782697677612305
+The entire process took: 10.393322467803955 seconds 
+Time to speak audio: 4.377023696899414
+The entire process took: 10.315743207931519 seconds 
+You said: here like to bench this I should be good 
+Time taken to transcribe audio 17.03971815109253You said: here like to bench this I should be good 
+Time taken to transcribe audio 17.11908221244812GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6086483001708984
+Time taken to turn text into audio file: 0.11649227142333984
+GPT said I'm sorry, but I was not able to understand your request. Could you please rephrase it for me?
+Time taken for GPT to generate response 0.8501901626586914
+Time taken to turn text into audio file: 0.4025442600250244
+Time to speak audio: 3.0032858848571777
+The entire process took: 20.770275592803955 seconds 
+Time to speak audio: 4.416425943374634
+The entire process took: 22.790480136871338 seconds 
+You said: Castle measure right there 
+Time taken to transcribe audio 6.007869482040405GPT said I'm sorry, but I was not able to understand your request. Could you please provide more information or clarify what you mean by "castle measure right there"?
+Time taken for GPT to generate response 0.9313650131225586
+You said: yeah I already got some measure right there 
+Time taken to transcribe audio 9.060455083847046GPT said Good, how are you doing today?
+Time taken for GPT to generate response 0.30278730392456055
+Time taken to turn text into audio file: 0.4254908561706543
+Time taken to turn text into audio file: 0.31859588623046875
+Time to speak audio: 3.2996273040771484
+The entire process took: 12.983675003051758 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 4.741690397262573GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.4463338851928711
+Time taken to turn text into audio file: 0.13643097877502441
+Time to speak audio: 10.378212690353394
+The entire process took: 17.745660543441772 seconds 
+Time to speak audio: 4.269863843917847
+The entire process took: 9.596566677093506 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 7.114614009857178GPT said I am sorry, but I was not able to understand you.
+Time taken for GPT to generate response 0.6063873767852783
+Time taken to turn text into audio file: 0.1815781593322754
+Time to speak audio: 4.534168243408203
+The entire process took: 12.439533710479736 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 9.489693641662598GPT said I'm sorry, but I was not able to understand you.
+Time taken for GPT to generate response 0.6608760356903076
+Time taken to turn text into audio file: 0.33268046379089355
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 20.40053081512451GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6478428840637207
+Time taken to turn text into audio file: 0.14273476600646973
+Time to speak audio: 4.43395733833313
+The entire process took: 14.919360876083374 seconds 
+Time to speak audio: 4.598684549331665
+The entire process took: 25.790874004364014 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 4.3172829151153564GPT said I am sorry, but I was not able to understand you.
+Time taken for GPT to generate response 0.4050438404083252
+Time taken to turn text into audio file: 0.5493338108062744
+Time to speak audio: 4.470834970474243
+The entire process took: 9.744051694869995 seconds 
+You said: wait I'm trying to say nothing like what are the full body is yes 
+Time taken to transcribe audio 23.37503957748413GPT said I apologize for the confusion. If you have any questions or need assistance, feel free to let me know!
+Time taken for GPT to generate response 1.1199371814727783
+Time taken to turn text into audio file: 0.392071008682251
+You said: do we get the Avatar in the same time 
+Time taken to transcribe audio 34.166367530822754GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.9715085029602051
+Time taken to turn text into audio file: 0.17261075973510742
+Time to speak audio: 4.262849569320679
+The entire process took: 39.57548403739929 seconds 
+Time to speak audio: 7.566941499710083
+The entire process took: 32.45653986930847 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 5.513816595077515GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.8695144653320312
+Time taken to turn text into audio file: 0.10256266593933105
+Time to speak audio: 4.262219429016113
+The entire process took: 10.749155044555664 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5020084381103516GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005247592926025391
+You said: who are you 
+Time taken to transcribe audio 0.5022692680358887GPT said Hi how are you doing
+Time taken for GPT to generate response 0.001512765884399414
+Time taken to turn text into audio file: 0.2931680679321289
+Time taken to turn text into audio file: 0.25368404388427734
+Time to speak audio: 2.8030762672424316
+The entire process took: 3.6003270149230957 seconds 
+Time to speak audio: 2.8035459518432617
+The entire process took: 3.5620501041412354 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.501457929611206GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010068416595458984
+You said: who are you 
+Time taken to transcribe audio 0.5004010200500488GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0012660026550292969
+Time taken to turn text into audio file: 0.1418166160583496
+Time taken to turn text into audio file: 0.3195188045501709
+Time to speak audio: 2.8034496307373047
+The entire process took: 3.449000358581543 seconds 
+Time to speak audio: 2.8020284175872803
+The entire process took: 3.625591278076172 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5008234977722168GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0017323493957519531
+You said: who are you 
+Time taken to transcribe audio 0.5015695095062256GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005180835723876953
+Time taken to turn text into audio file: 0.12204647064208984
+Time taken to turn text into audio file: 0.12351250648498535
+You said: who are you 
+Time taken to transcribe audio 0.5011262893676758GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005211830139160156
+Time taken to turn text into audio file: 0.11941885948181152
+You said: who are you 
+Time taken to transcribe audio 0.5035848617553711GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005316734313964844
+Time taken to turn text into audio file: 0.11925601959228516
+You said: who are you 
+Time taken to transcribe audio 0.5016372203826904GPT said Hi how are you doing
+Time taken for GPT to generate response 0.001547098159790039
+Time taken to turn text into audio file: 0.1280059814453125
+You said: who are you 
+Time taken to transcribe audio 0.5085387229919434GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010447502136230469
+Time taken to turn text into audio file: 0.14781641960144043
+Time to speak audio: 2.8023579120635986
+The entire process took: 3.4345903396606445 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5014426708221436GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010461807250976562
+Time taken to turn text into audio file: 0.12198710441589355
+Time to speak audio: 2.842118740081787
+The entire process took: 3.5005478858947754 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5011110305786133GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010471343994140625
+Time taken to turn text into audio file: 0.1201026439666748
+Time to speak audio: 2.8027191162109375
+The entire process took: 3.427755832672119 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5025434494018555GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0011219978332519531
+Time taken to turn text into audio file: 0.15300869941711426
+Time to speak audio: 2.834113121032715
+The entire process took: 3.4597859382629395 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5050997734069824GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0011470317840576172
+Time taken to turn text into audio file: 0.1379408836364746
+Time to speak audio: 2.8068437576293945
+The entire process took: 3.4651832580566406 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5013816356658936GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0016574859619140625
+Time taken to turn text into audio file: 0.12907814979553223
+Time to speak audio: 2.849304676055908
+The entire process took: 3.495093584060669 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5035958290100098GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005269050598144531
+Time taken to turn text into audio file: 0.1347506046295166
+Time to speak audio: 2.8036375045776367
+The entire process took: 3.4374051094055176 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5015099048614502GPT said Hi how are you doing
+You said: who are you 
+Time taken to transcribe audio 0.5007939338684082GPT said Hi how are you doing
+Time taken for GPT to generate response 0.001110076904296875
+You said: who are you 
+Time taken to transcribe audio 0.5018184185028076GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0011012554168701172
+Time taken to turn text into audio file: 0.13614678382873535
+Time taken to turn text into audio file: 0.12958860397338867
+Time to speak audio: 2.804412841796875
+The entire process took: 3.444044828414917 seconds 
+Time to speak audio: 2.803133249282837
+The entire process took: 3.438469171524048 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5009772777557373GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0
+You said: who are you 
+Time taken to transcribe audio 0.5005278587341309GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005183219909667969
+Time taken to turn text into audio file: 0.09585261344909668
+You said: who are you 
+Time taken to transcribe audio 0.5007672309875488GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005207061767578125
+Time taken to turn text into audio file: 0.11000275611877441
+You said: who are you 
+Time taken to transcribe audio 0.5013744831085205GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010292530059814453
+Time taken to turn text into audio file: 0.125260591506958
+You said: who are you 
+Time taken to transcribe audio 0.5023789405822754GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010364055633544922
+Time taken to turn text into audio file: 0.1364433765411377
+Time to speak audio: 2.80365252494812
+The entire process took: 3.4450483322143555 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5017738342285156GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005223751068115234
+Time taken to turn text into audio file: 0.12760519981384277
+You said: who are you 
+Time taken to transcribe audio 0.5005414485931396GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005197525024414062
+Time taken to turn text into audio file: 0.11942601203918457
+Time to speak audio: 2.8012139797210693
+The entire process took: 3.422743082046509 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5007128715515137GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005223751068115234
+Time taken to turn text into audio file: 0.1086723804473877
+You said: who are you 
+Time taken to transcribe audio 0.5014352798461914GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005412101745605469
+Time taken to turn text into audio file: 0.14669084548950195
+Time to speak audio: 2.8037216663360596
+The entire process took: 3.454002618789673 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5019979476928711GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010378360748291016
+Time taken to turn text into audio file: 0.11806058883666992
+Time to speak audio: 2.803988218307495
+The entire process took: 3.4271798133850098 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5016002655029297GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010390281677246094
+Time taken to turn text into audio file: 0.16083574295043945
+Time to speak audio: 2.804290294647217
+The entire process took: 3.4693243503570557 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5007534027099609GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005185604095458984
+Time taken to turn text into audio file: 0.12549972534179688
+Time to speak audio: 2.8051440715789795
+The entire process took: 3.434032678604126 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5016922950744629GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010471343994140625
+Time taken to turn text into audio file: 0.13321566581726074
+Time to speak audio: 2.806337356567383
+The entire process took: 3.4433236122131348 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5012571811676025GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005211830139160156
+Time taken to turn text into audio file: 0.1267242431640625
+You said: who are you 
+Time taken to transcribe audio 7.759572505950928GPT said I'm Vivi, a streamer from the year 2050. How can I help you?
+Time taken for GPT to generate response 1.0364303588867188
+Time taken to turn text into audio file: 0.3165614604949951
+You said: who are you 
+Time taken to transcribe audio 25.387869596481323GPT said I am Vivi, a streamer from the year 2050.
+Time taken for GPT to generate response 0.9614181518554688
+Time taken to turn text into audio file: 0.33036255836486816
+Time to speak audio: 4.167826414108276
+The entire process took: 30.850125789642334 seconds 
+You said: who are you 
+Time taken to transcribe audio 3.525365114212036GPT said I am Vivi, a streamer from the year 2050. How are you doing today?
+Time taken for GPT to generate response 0.6796143054962158
+Time taken to turn text into audio file: 0.3080730438232422
+Time to speak audio: 6.190001487731934
+The entire process took: 10.704699277877808 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5016422271728516GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0016472339630126953
+Time taken to turn text into audio file: 0.14545226097106934
+Time to speak audio: 2.8024086952209473
+The entire process took: 3.4527361392974854 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5017719268798828GPT said Hi how are you doing
+Time taken for GPT to generate response 0.001028299331665039
+Time taken to turn text into audio file: 0.13453960418701172
+Time to speak audio: 2.805875301361084
+The entire process took: 3.4453694820404053 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5011518001556396GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005161762237548828
+Time taken to turn text into audio file: 0.12632465362548828
+You said: who are you 
+Time taken to transcribe audio 0.5015175342559814GPT said Hi how are you doing
+Time taken for GPT to generate response 0.001577615737915039
+Time taken to turn text into audio file: 0.1357283592224121
+Time to speak audio: 2.8023016452789307
+The entire process took: 3.4436795711517334 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5018050670623779GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005328655242919922
+Time taken to turn text into audio file: 0.12810301780700684
+Time to speak audio: 2.803189516067505
+The entire process took: 3.4357078075408936 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5011725425720215GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010526180267333984
+Time taken to turn text into audio file: 0.1400468349456787
+Time to speak audio: 2.803389310836792
+The entire process took: 3.4477992057800293 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5020246505737305GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0011599063873291016
+Time taken to turn text into audio file: 0.12834787368774414
+Time to speak audio: 2.803598642349243
+The entire process took: 3.4378013610839844 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5017795562744141GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005137920379638672
+Time taken to turn text into audio file: 0.11828398704528809
+Time to speak audio: 2.8037362098693848
+The entire process took: 3.4269590377807617 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5281381607055664GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0016508102416992188
+Time taken to turn text into audio file: 0.3467245101928711
+Time to speak audio: 2.865569591522217
+The entire process took: 3.75920033454895 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5006892681121826GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005517005920410156
+Time taken to turn text into audio file: 0.1233513355255127
+Time to speak audio: 2.8033571243286133
+The entire process took: 3.429025411605835 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5011212825775146GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005207061767578125
+Time taken to turn text into audio file: 0.12335991859436035
+Time to speak audio: 2.8322079181671143
+The entire process took: 3.4582631587982178 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5025050640106201GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010361671447753906
+Time taken to turn text into audio file: 0.11736154556274414
+Time to speak audio: 2.803420066833496
+The entire process took: 3.4258720874786377 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5014469623565674GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010423660278320312
+Time taken to turn text into audio file: 0.12463951110839844
+You said: who are you 
+Time taken to transcribe audio 0.5015387535095215GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010991096496582031
+Time taken to turn text into audio file: 0.13649582862854004
+Time to speak audio: 2.80489182472229
+The entire process took: 3.4467179775238037 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5017099380493164GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010554790496826172
+Time taken to turn text into audio file: 0.13845539093017578
+Time to speak audio: 2.803703784942627
+The entire process took: 3.447094678878784 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5014224052429199GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010867118835449219
+Time taken to turn text into audio file: 0.12523746490478516
+Time to speak audio: 2.804004430770874
+The entire process took: 3.433987855911255 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5018799304962158GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010859966278076172
+Time taken to turn text into audio file: 0.1340160369873047
+Time to speak audio: 1.7783753871917725
+The entire process took: 2.4180219173431396 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.500840425491333GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005164146423339844
+Time taken to turn text into audio file: 0.13004040718078613
+Time to speak audio: 2.8062238693237305
+The entire process took: 3.439706325531006 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.5012242794036865GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0011065006256103516
+Time taken to turn text into audio file: 0.12281298637390137
+You said: who are you 
+Time taken to transcribe audio 0.5021638870239258GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0005614757537841797
+Time taken to turn text into audio file: 0.14229154586791992
+Time to speak audio: 2.804425001144409
+The entire process took: 3.4516613483428955 seconds 
+You said: who are you 
+Time taken to transcribe audio 0.50130295753479GPT said Hi how are you doing
+Time taken for GPT to generate response 0.0010356903076171875
+Time taken to turn text into audio file: 0.12316012382507324
+You said: who are you 
+Time taken to transcribe audio 9.289127111434937GPT said I am Vivi, a streamer from the future.
+Time taken for GPT to generate response 0.8092551231384277
+Time taken to turn text into audio file: 0.2954225540161133
+Time to speak audio: 3.8092434406280518
+The entire process took: 14.205176830291748 seconds 
+You said: who are you 
+Time taken to transcribe audio 5.605659484863281GPT said I am Vivi, a streamer from the year 2050.
+Time taken for GPT to generate response 0.7707738876342773
+Time taken to turn text into audio file: 0.36246562004089355
+Time to speak audio: 3.6092960834503174
+The entire process took: 10.35029935836792 seconds 
+You said: who are you 
+Time taken to transcribe audio 3.351896047592163GPT said I am Vivi, a streamer from the future.
+Time taken for GPT to generate response 0.49303388595581055
+Time taken to turn text into audio file: 0.14338254928588867
+Time to speak audio: 3.807105779647827
+The entire process took: 7.797562599182129 seconds 
+You said: who are you 
+Time taken to transcribe audio 3.5289196968078613GPT said I am Vivi, a streamer from the year 2050.
+Time taken for GPT to generate response 0.8263218402862549
+Time taken to turn text into audio file: 0.14469194412231445
+You said: who are you 
+Time taken to transcribe audio 4.746225357055664GPT said I'm Vivi, a streamer from the year 2050.
+Time taken for GPT to generate response 0.7843344211578369
+Time taken to turn text into audio file: 0.30269432067871094
+Time to speak audio: 4.021462440490723
+The entire process took: 9.85496711730957 seconds 
+You said: who are you 
+Time taken to transcribe audio 4.217079162597656GPT said I'm Vivi, a streamer from the year 2050. How can I help you today?
+Time taken for GPT to generate response 0.8093843460083008
+Time taken to turn text into audio file: 0.33577752113342285
+Time to speak audio: 6.1089558601379395
+The entire process took: 11.472810745239258 seconds 
+You said: who are you 
+Time taken to transcribe audio 3.8944249153137207GPT said I'm Vivi, a streamer from the year 2050. How can I assist you?
+Time taken for GPT to generate response 0.8599016666412354
+Time taken to turn text into audio file: 0.3796849250793457
+Time to speak audio: 6.177989482879639
+The entire process took: 11.313551664352417 seconds 
+You said: who are you 
+Time taken to transcribe audio 4.67039942741394GPT said I'm Vivi, a streamer from the year 2050. How can I make your day better?
+Time taken for GPT to generate response 0.9430480003356934
+Time taken to turn text into audio file: 0.32991647720336914
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 6.351445436477661GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.8530197143554688
+Time taken to turn text into audio file: 0.13970255851745605
+Time to speak audio: 4.268810033798218
+The entire process took: 11.615179061889648 seconds 
+You said: next to her at all 
+Time taken to transcribe audio 4.429903030395508GPT said Sorry, I don't know what you mean by "next to her at all". Can you please provide more context or clarify your statement?
+Time taken for GPT to generate response 0.9791388511657715
+Time taken to turn text into audio file: 0.3614988327026367
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 13.704102039337158GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.8010640144348145
+Time taken to turn text into audio file: 0.1468062400817871
+Time to speak audio: 4.27410626411438
+The entire process took: 18.92867946624756 seconds 
+You said: play a game 
+Time taken to transcribe audio 4.5062525272369385GPT said Yes, let's play a game!
+Time taken for GPT to generate response 0.6451413631439209
+Time taken to turn text into audio file: 0.3190286159515381
+Time to speak audio: 3.1635727882385254
+The entire process took: 8.636663913726807 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 5.023114442825317GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7165625095367432
+Time taken to turn text into audio file: 0.1396780014038086
+Time to speak audio: 4.29755973815918
+The entire process took: 10.178496360778809 seconds 
+You said: what if you see the back here and you see never mind cancel 
+Time taken to transcribe audio 16.54557728767395GPT said Sorry, I am just a streamer from the year 2050 and don't have the capability to see or cancel anything in real time.
+Time taken for GPT to generate response 1.1117589473724365
+Time taken to turn text into audio file: 0.6926784515380859
+Time to speak audio: 8.067632913589478
+The entire process took: 26.42090153694153 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 3.7892229557037354GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.8216683864593506
+Time taken to turn text into audio file: 0.14223670959472656
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 19.72924304008484GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7358617782592773
+Time taken to turn text into audio file: 1.1348869800567627
+Time to speak audio: 4.2607033252716064
+The entire process took: 25.86173939704895 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 3.3605308532714844GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6160509586334229
+Time taken to turn text into audio file: 0.110687255859375
+You said: Family Video 
+Time taken to transcribe audio 5.283107280731201GPT said Yes, a fun game where you have to guess the name of movies using only emojis.
+Time taken for GPT to generate response 0.9946479797363281
+Time taken to turn text into audio file: 0.39902162551879883
+Time to speak audio: 5.872937917709351
+The entire process took: 12.551429510116577 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 3.352550745010376GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.8710002899169922
+Time taken to turn text into audio file: 1.1275925636291504
+Time to speak audio: 4.270305395126343
+The entire process took: 9.623050928115845 seconds 
+You said: can you see can you see your pants and body oh you don't see body 
+Time taken to transcribe audio 11.915407419204712GPT said No, I cannot see my pants or body.
+Time taken for GPT to generate response 0.7133421897888184
+Time taken to turn text into audio file: 0.3051762580871582
+Time to speak audio: 3.883310079574585
+The entire process took: 16.82002305984497 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 14.354995727539062GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.5800004005432129
+Time taken to turn text into audio file: 0.14137530326843262
+Time to speak audio: 4.269827842712402
+The entire process took: 19.34785270690918 seconds 
+You said: who are you yeah sure 
+Time taken to transcribe audio 4.536272764205933GPT said I am Vivi, a streamer from the year 2050. How can I help you today?
+Time taken for GPT to generate response 0.7092783451080322
+Time taken to turn text into audio file: 0.40936827659606934
+Time to speak audio: 6.223759174346924
+The entire process took: 11.881455183029175 seconds 
+You said: play Flappy Bird 
+Time taken to transcribe audio 5.559911251068115GPT said Yes, I can play Flappy Bird. It's a game where you guide a bird through obstacles by tapping the screen to make it flap its wings and fly higher.
+Time taken for GPT to generate response 1.1563453674316406
+Time taken to turn text into audio file: 0.520747184753418
+Time to speak audio: 9.584810972213745
+The entire process took: 16.82455325126648 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 6.902423143386841GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.735581636428833
+Time taken to turn text into audio file: 0.1378612518310547
+Time to speak audio: 4.2695817947387695
+The entire process took: 12.047116041183472 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 4.368152141571045GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6579625606536865
+Time taken to turn text into audio file: 0.12589788436889648
+Time to speak audio: 4.269484996795654
+The entire process took: 9.42371153831482 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 25.054812908172607GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 1.4424633979797363
+Time taken to turn text into audio file: 0.13764643669128418
+Time to speak audio: 4.270573139190674
+The entire process took: 30.907679319381714 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 5.130080461502075GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6979024410247803
+Time taken to turn text into audio file: 0.1348114013671875
+Time to speak audio: 3.0108933448791504
+The entire process took: 8.975910663604736 seconds 
+You said: what do you want for Christmas she should take a thing 
+Time taken to transcribe audio 9.156588792800903GPT said I would like candles, gift cards, candies or anything except socks. Socks are the worst!
+Time taken for GPT to generate response 0.8171193599700928
+Time taken to turn text into audio file: 0.5721127986907959
+Time to speak audio: 7.6306774616241455
+The entire process took: 18.179222583770752 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 14.455365180969238GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7040042877197266
+Time taken to turn text into audio file: 0.13321232795715332
+Time to speak audio: 4.268901824951172
+The entire process took: 19.563658714294434 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 7.764209032058716GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.707392692565918
+Time taken to turn text into audio file: 0.13648319244384766
+Time to speak audio: 3.010906457901001
+The entire process took: 11.621108293533325 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 4.49195122718811GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7008254528045654
+Time taken to turn text into audio file: 0.13113045692443848
+Time to speak audio: 4.276180267333984
+The entire process took: 9.602787494659424 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 6.661356449127197GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6405947208404541
+Time taken to turn text into audio file: 0.13254928588867188
+Time to speak audio: 4.274722337722778
+The entire process took: 11.711418151855469 seconds 
+You said: nobody is posted 
+Time taken to transcribe audio 5.251615047454834GPT said Good, how are you doing today?
+Time taken for GPT to generate response 0.589332103729248
+Time taken to turn text into audio file: 0.12746691703796387
+Time to speak audio: 3.292132616043091
+The entire process took: 9.26325798034668 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 11.083039999008179GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6211931705474854
+Time taken to turn text into audio file: 0.1284656524658203
+Time to speak audio: 4.268512010574341
+The entire process took: 16.10343599319458 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 24.724578142166138GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7293591499328613
+Time taken to turn text into audio file: 0.16559171676635742
+Time to speak audio: 4.268240213394165
+The entire process took: 29.890482425689697 seconds 
+You said: handshake 
+Time taken to transcribe audio 3.7822248935699463GPT said Sure, let's shake hands! (virtual handshake)
+Time taken for GPT to generate response 0.686375617980957
+Time taken to turn text into audio file: 0.3468923568725586
+Time to speak audio: 4.6184632778167725
+The entire process took: 9.436150074005127 seconds 
+You said: children's parentheses it says it 
+Time taken to transcribe audio 9.57103157043457GPT said I'm sorry, but I don't understand what you mean by "children's parentheses." Can you please provide more context or clarify your request?
+Time taken for GPT to generate response 0.9214382171630859
+Time taken to turn text into audio file: 0.5203874111175537
+Time to speak audio: 8.634192943572998
+The entire process took: 19.650569200515747 seconds 
+You said: yeah I don't know 
+Time taken to transcribe audio 6.322694540023804GPT said No worries! If you have any other questions or need assistance with something else, feel free to let me know.
+Time taken for GPT to generate response 0.9817924499511719
+Time taken to turn text into audio file: 0.5279397964477539
+Time to speak audio: 7.551864862442017
+The entire process took: 15.385924100875854 seconds 
+You said: the anime it's made or is funny 
+Time taken to transcribe audio 7.3852434158325195GPT said I'm not sure which anime you are referring to. Can you please provide the name of the anime or more information about it?
+Time taken for GPT to generate response 1.0677247047424316
+Time taken to turn text into audio file: 0.415863037109375
+Time to speak audio: 7.727699041366577
+The entire process took: 16.59929394721985 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 3.6710996627807617GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7296700477600098
+Time taken to turn text into audio file: 0.16192150115966797
+Time to speak audio: 4.270329475402832
+The entire process took: 8.835257530212402 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 8.05906343460083GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7448070049285889
+Time taken to turn text into audio file: 0.12378740310668945
+Time to speak audio: 4.270031452178955
+The entire process took: 13.200435161590576 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 6.3467230796813965GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6406581401824951
+Time taken to turn text into audio file: 0.14917969703674316
+Time to speak audio: 4.26917839050293
+The entire process took: 11.407878398895264 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 16.2710063457489GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7030465602874756
+Time taken to turn text into audio file: 0.11999940872192383
+Time to speak audio: 4.272565603256226
+The entire process took: 21.368261098861694 seconds 
+You said: okay period 
+Time taken to transcribe audio 17.62328791618347GPT said Okay.
+Time taken for GPT to generate response 0.4535067081451416
+Time taken to turn text into audio file: 0.6076517105102539
+Time to speak audio: 2.0044498443603516
+The entire process took: 20.691019296646118 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 3.564955949783325GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7042763233184814
+Time taken to turn text into audio file: 0.1323258876800537
+Time to speak audio: 4.268831253051758
+The entire process took: 8.672601222991943 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 8.013423919677734GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.9889857769012451
+Time taken to turn text into audio file: 0.12407636642456055
+Time to speak audio: 4.269851922988892
+The entire process took: 13.399091958999634 seconds 
+You said: if they say I can do something 
+Time taken to transcribe audio 6.775154113769531GPT said Yes.
+Time taken for GPT to generate response 0.4436533451080322
+Time taken to turn text into audio file: 0.2544441223144531
+Time to speak audio: 2.005128860473633
+The entire process took: 9.479487180709839 seconds 
+You said: little snake 
+Time taken to transcribe audio 5.994009017944336GPT said Yes, Little Snake is a fun and addictive game where you control a small snake and try to eat as many dots as possible without crashing into yourself or the walls.
+Time taken for GPT to generate response 1.1672768592834473
+Time taken to turn text into audio file: 0.7121407985687256
+Time to speak audio: 10.267812728881836
+The entire process took: 18.142914056777954 seconds 
+You said: can you go to the grocery list for the room go back to her and come back okay 
+Time taken to transcribe audio 12.108878135681152GPT said Sure, I can go to the grocery list for you.
+Time taken for GPT to generate response 1.0573923587799072
+Time taken to turn text into audio file: 0.2838277816772461
+Time to speak audio: 4.100236654281616
+The entire process took: 17.551393270492554 seconds 
+You said: you have to wait for we were testing like a demo trial demo and the speech and have things works so theoretically it should okay no how's the images 
+Time taken to transcribe audio 24.361088752746582GPT said I apologize, but as a text-based AI, I don't have the capability to see or interact with images. Is there anything else I can assist you with?
+Time taken for GPT to generate response 1.1151323318481445
+Time taken to turn text into audio file: 0.5387098789215088
+Time to speak audio: 9.725224018096924
+The entire process took: 35.741830587387085 seconds 
+You said: that was one of them and the second one was the size of the handshake we want body in the handshake that's kind of why we needed 
+Time taken to transcribe audio 35.95755219459534GPT said I'm sorry, but I don't have the capability to physically demonstrate handshakes or provide body size information. Is there anything else I can help you with?
+Time taken for GPT to generate response 1.103872537612915
+Time taken to turn text into audio file: 0.6364309787750244
+Time to speak audio: 11.124265193939209
+The entire process took: 48.82478165626526 seconds 
+You said: can you push your changes oh yeah I need them 
+Time taken to transcribe audio 20.55384087562561GPT said I apologize, but as a text-based AI, I don't have the capability to make changes or push them. Is there anything else I can assist you with?
+Time taken for GPT to generate response 1.2490899562835693
+Time taken to turn text into audio file: 0.49393296241760254
+Time to speak audio: 9.518038272857666
+The entire process took: 31.815956115722656 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 3.5864827632904053GPT said I am sorry, but I was not able to understand you.
+Time taken for GPT to generate response 0.7312371730804443
+Time taken to turn text into audio file: 0.13441181182861328
+Time to speak audio: 4.481495141983032
+The entire process took: 8.935824871063232 seconds 
+You said: I have to wait for the engine to actually Google realistically just done to describe this and 
+Time taken to transcribe audio 13.798837184906006GPT said I apologize, but I am not capable of accessing or using search engines. Is there anything else I can assist you with?
+Time taken for GPT to generate response 0.9765467643737793
+Time taken to turn text into audio file: 0.507314920425415
+Time to speak audio: 8.661780834197998
+The entire process took: 23.94663381576538 seconds 
+You said: get the upper body as well 
+Time taken to transcribe audio 5.285078525543213You said: how's everything going well first of all the 
+Time taken to transcribe audio 7.188816070556641GPT said Good, how are you doing today?
+Time taken for GPT to generate response 0.7167575359344482
+Time taken to turn text into audio file: 0.14015579223632812
+Time to speak audio: 3.2871928215026855
+The entire process took: 11.333477973937988 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 12.005224466323853GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.6062588691711426
+Time taken to turn text into audio file: 0.13916850090026855
+Time to speak audio: 4.273982524871826
+The entire process took: 17.027401208877563 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 4.669352293014526GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.7527115345001221
+Time taken to turn text into audio file: 0.14155101776123047
+Time to speak audio: 4.278842449188232
+The entire process took: 9.843610286712646 seconds 
+You said: transparent it's like 
+Time taken to transcribe audio 5.277897357940674GPT said Yes, transparency is like being able to see through or understand something clearly.
+Time taken for GPT to generate response 0.8274178504943848
+Time taken to turn text into audio file: 0.6183454990386963
+Time to speak audio: 6.306052207946777
+The entire process took: 13.032459497451782 seconds 
+You said: how are you today 
+Time taken to transcribe audio 3.807626485824585GPT said Good, how are you doing today?
+Time taken for GPT to generate response 0.5776698589324951
+Time taken to turn text into audio file: 0.1343832015991211
+Time to speak audio: 3.2873036861419678
+The entire process took: 7.809152126312256 seconds 
+You said: oh that's hilarious you don't see the plane in the Oculus mirror 
+Time taken to transcribe audio 10.01968240737915GPT said Yes, it can be quite amusing when virtual reality interacts with the physical world in unexpected ways!
+Time taken for GPT to generate response 0.9124515056610107
+Time taken to turn text into audio file: 0.45078134536743164
+Time to speak audio: 7.6335608959198
+The entire process took: 19.019238471984863 seconds 
+You said: you are not even hug you right yeah exactly that is fine it's fine forget it 
+Time taken to transcribe audio 11.40618634223938GPT said Sorry if I misunderstood something. Is there anything else I can assist you with?
+Time taken for GPT to generate response 0.7157196998596191
+Time taken to turn text into audio file: 0.31148290634155273
+Time to speak audio: 5.902090072631836
+The entire process took: 18.33764934539795 seconds 
+You said: everything else is fine you know you just pop the edges and we will be fine okay cool yeah but do we know how to 
+Time taken to transcribe audio 28.907776355743408GPT said I'm sorry, but I don't quite understand what you're asking. Could you please clarify?
+Time taken for GPT to generate response 0.806481122970581
+Time taken to turn text into audio file: 0.33002400398254395
+Time to speak audio: 5.891371726989746
+The entire process took: 35.93834328651428 seconds 
+You said: okay it's activating because she's speaking ya know that's something that I said the audio thing how do you fix that dessert like any good fix to it 
+Time taken to transcribe audio 15.575667381286621GPT said Good, how are you doing today? Unfortunately, I cannot fix audio-related issues as I am not an AI developed by OpenAI.
+Time taken for GPT to generate response 0.9297354221343994
+Time taken to turn text into audio file: 0.4947648048400879
+Time to speak audio: 8.980889320373535
+The entire process took: 25.98321771621704 seconds 
+You said: honorable album for the video we had I mean the picture we had a white background so we can't change it so 
+Time taken to transcribe audio 15.774139404296875GPT said I'm not sure what you're asking. Could you please provide more information or clarify your question?
+Time taken for GPT to generate response 1.011483907699585
+Time taken to turn text into audio file: 0.30275988578796387
+Time to speak audio: 6.380834579467773
+The entire process took: 23.471344470977783 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 2.7312777042388916GPT said I am sorry, but I was not able to understand you.
+Time taken for GPT to generate response 0.6728458404541016
+Time taken to turn text into audio file: 0.12360310554504395
+Time to speak audio: 4.474947452545166
+The entire process took: 8.004290580749512 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 5.163875341415405GPT said I am sorry, but I was not able to understand you.
+Time taken for GPT to generate response 0.7074379920959473
+Time taken to turn text into audio file: 0.2801222801208496
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 9.767422199249268GPT said I am sorry but I was not able to understand you.
+Time taken for GPT to generate response 0.8016724586486816
+Time taken to turn text into audio file: 0.1442418098449707
+Time to speak audio: 4.271423101425171
+The entire process took: 14.986910581588745 seconds 
+You said: set to do an actual one 
+Time taken to transcribe audio 4.728175640106201GPT said Sure, what would you like me to do?
+Time taken for GPT to generate response 0.6064963340759277
+Time taken to turn text into audio file: 0.29999232292175293
+Time to speak audio: 3.664590358734131
+The entire process took: 9.301370620727539 seconds 
+You said: movie closer to do the hug period 
+Time taken to transcribe audio 16.926918745040894GPT said Yes, let's play a game! In this game, you will have to match the correct movie title with its corresponding hug scene. Are you ready?
+Time taken for GPT to generate response 1.4756381511688232
+Time taken to turn text into audio file: 0.47232794761657715
+Time to speak audio: 9.965756177902222
+The entire process took: 28.843313217163086 seconds 
+You said: and 
+Time taken to transcribe audio 5.373453378677368GPT said and...? Is there anything else you would like to add or ask about the game/movie?
+Time taken for GPT to generate response 0.8195977210998535
+Time taken to turn text into audio file: 0.6194312572479248
+Time to speak audio: 5.197420120239258
+The entire process took: 12.012641668319702 seconds 
+You said: Walgreens close to her 
+Time taken to transcribe audio 6.496865749359131GPT said I'm sorry, but I am unable to understand what you mean by "Walgreens close to her." Please provide more context or clarify your request.
+Time taken for GPT to generate response 1.2513597011566162
+Time taken to turn text into audio file: 0.45936131477355957
+Time to speak audio: 9.987594604492188
+The entire process took: 18.19786238670349 seconds 
+You said: Hollister's on Oculus mirror oh yeah I know it's not that bad you know it's not that bad I just have to fix the left hand 
+Time taken to transcribe audio 19.455193281173706GPT said I'm sorry, but I am still unable to understand the meaning behind your statement. Could you please provide more context or clarify your request?
+Time taken for GPT to generate response 1.0470757484436035
+Time taken to turn text into audio file: 0.4094359874725342
+Time to speak audio: 9.347818613052368
+The entire process took: 30.26173233985901 seconds 
+You said: so little 
+Time taken to transcribe audio 14.74923849105835GPT said Hello! How can I help you today?
+Time taken for GPT to generate response 0.7663745880126953
+Time taken to turn text into audio file: 0.5178594589233398
+Time to speak audio: 3.5378735065460205
+The entire process took: 19.572911739349365 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 3.2691426277160645GPT said I am sorry but I was not able to understand you. How can I assist you today?
+Time taken for GPT to generate response 0.8070287704467773
+Time taken to turn text into audio file: 0.14423179626464844
+Time to speak audio: 5.806560754776001
+The entire process took: 10.030224800109863 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 3.3437931537628174GPT said I am sorry but I was not able to understand you. How can I assist you today?
+Time taken for GPT to generate response 0.8092608451843262
+Time taken to turn text into audio file: 0.1328575611114502
+Time to speak audio: 4.707705497741699
+The entire process took: 8.995815515518188 seconds 
+You said: where's the mic coming from I have to double check if you look in sound mixer if you want you can check it will be in sound mixer yeah it's fine it's whatever it's going to get me to fix I don't know if is it all Oculus is not recording that's the problem 
+Time taken to transcribe audio 27.735892295837402GPT said I'm sorry, but I am not able to check the sound mixer or diagnose any technical issues. Is there anything else I can help you with?
+Time taken for GPT to generate response 1.0968656539916992
+Time taken to turn text into audio file: 0.402329683303833
+Time to speak audio: 9.328681230545044
+The entire process took: 38.566121339797974 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 27.874870538711548GPT said I apologize, but I was not able to understand you. Can you please rephrase your question or request?
+Time taken for GPT to generate response 0.9665687084197998
+Time taken to turn text into audio file: 0.40735578536987305
+Time to speak audio: 7.059794187545776
+The entire process took: 36.31135034561157 seconds 
+You said: who are you 
+Time taken to transcribe audio 3.4473843574523926GPT said Hello! I am Vivi, a streamer from the year 2050 where our world and the VR world collided into one. How can I assist you today?
+Time taken for GPT to generate response 1.2109227180480957
+Time taken to turn text into audio file: 0.551353931427002
+Time to speak audio: 10.13850212097168
+The entire process took: 15.351545333862305 seconds 
+You said: find a toy stop Siri okay I'll stop the recording and we'll look at it messed up the recording and let's look at this 
+Time taken to transcribe audio 13.938255310058594GPT said I'm sorry, but I am not able to search for physical products or interact with Siri. Is there anything else I can help you with?
+Time taken for GPT to generate response 1.071324348449707
+Time taken to turn text into audio file: 0.5938947200775146
+Time to speak audio: 8.263798236846924
+The entire process took: 23.989867687225342 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 6.410268545150757GPT said I am sorry, but I was not able to understand you. Can you please rephrase your question or request?
+Time taken for GPT to generate response 1.0102319717407227
+Time taken to turn text into audio file: 0.4586215019226074
+Time to speak audio: 6.45076584815979
+The entire process took: 14.333142518997192 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 4.143673896789551GPT said I am sorry but I was not able to understand you. Can you please rephrase your question or request?
+Time taken for GPT to generate response 1.0050749778747559
+Time taken to turn text into audio file: 0.36718177795410156
+Time to speak audio: 6.147096872329712
+The entire process took: 11.664780378341675 seconds 
+You said: cuz you can change it from the output devices cable 
+Time taken to transcribe audio 8.956501245498657GPT said I'm sorry, but I am not able to change or control any output devices. Is there anything else I can assist you with?
+Time taken for GPT to generate response 1.23060941696167
+Time taken to turn text into audio file: 0.6002402305603027
+Time to speak audio: 7.613307476043701
+The entire process took: 18.402839422225952 seconds 
+You said: so we can hear that one which means the fact that we can't hear this one means that is I think this is why we switched method for the VR demo for ACM yeah but that's not going to work here period the physical 
+Time taken to transcribe audio 25.016350746154785GPT said I apologize, but I am having trouble understanding your statement. Can you please provide more context or rephrase it?
+Time taken for GPT to generate response 1.0231716632843018
+Time taken to turn text into audio file: 0.34369993209838867
+Time to speak audio: 8.53927230834961
+The entire process took: 34.924118995666504 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 3.86590838432312GPT said I am sorry but I was not able to understand you. Can you please rephrase your question or request?
+Time taken for GPT to generate response 0.9383072853088379
+Time taken to turn text into audio file: 0.5250892639160156
+Time to speak audio: 6.695825576782227
+The entire process took: 12.02674126625061 seconds 
+You said: okay we have to fix that no I don't know how much is coming one of you guys like record 
+Time taken to transcribe audio 25.282588958740234GPT said I apologize, but I am unable to assist with recording or fixing audio issues. Is there anything else I can help you with?
+Time taken for GPT to generate response 0.9632542133331299
+Time taken to turn text into audio file: 0.44722700119018555
+Time to speak audio: 9.008519411087036
+The entire process took: 35.703792333602905 seconds 
+You said: Say "I am sorry but I was not able to understand you" 
+Time taken to transcribe audio 17.518863439559937GPT said I am sorry but I was not able to understand you. Can you please rephrase your question or request?
+Time taken for GPT to generate response 0.9847402572631836
+Time taken to turn text into audio file: 1.1610465049743652
+Time to speak audio: 6.909003019332886
+The entire process took: 26.575870037078857 seconds 
+You said: Buffalo or 
+Time taken to transcribe audio 20.033854484558105GPT said Yes, I can play Buffalo. It is a word association game where players take turns saying words related to buffalo or associated with the previous word mentioned.
+Time taken for GPT to generate response 0.964514970779419
+Time taken to turn text into audio file: 0.7447898387908936
+GPT said Hi, welcome
+Time taken for GPT to generate response 0.30483412742614746
+Time taken to turn text into audio file: 0.23246526718139648
+Time to speak audio: 2.5593984127044678
+The entire process took: 3.0993480682373047 seconds 
+Time to speak audio: 7.843048334121704
+The entire process took: 9.524951457977295 seconds 
+Time to speak audio: 3.6932222843170166
+The entire process took: 4.799483299255371 seconds 
+Time to speak audio: 4.361256837844849
+The entire process took: 4.679915189743042 seconds 
+Time to speak audio: 7.8861095905303955
+The entire process took: 10.897556781768799 seconds 
+Time to speak audio: 3.6981637477874756
+The entire process took: 7.604193210601807 seconds 
+Time to speak audio: 3.510709524154663
+The entire process took: 4.821634769439697 seconds 
+Time to speak audio: 5.217924118041992
+The entire process took: 8.854598045349121 seconds 
+Time to speak audio: 2.6900711059570312
+The entire process took: 11.7118558883667 seconds 
+Time to speak audio: 7.847194671630859
+The entire process took: 9.534402847290039 seconds 
+Time to speak audio: 3.699986219406128
+The entire process took: 7.666460990905762 seconds 
+Time to speak audio: 4.381153583526611
+The entire process took: 22.72553539276123 seconds 
+Time to speak audio: 5.221405506134033
+The entire process took: 9.465629577636719 seconds 
+Time to speak audio: 2.005918264389038
+The entire process took: 58.82638359069824 seconds 
+Time to speak audio: 2.5691170692443848
+The entire process took: 26.40442657470703 seconds 
+Time to speak audio: 2.5656394958496094
+The entire process took: 4.377294063568115 seconds 
+Time to speak audio: 3.698888063430786
+The entire process took: 13.619840383529663 seconds 
+Time to speak audio: 2.56333065032959
+The entire process took: 4.865706443786621 seconds 
+Time to speak audio: 3.6981842517852783
+The entire process took: 5.111639738082886 seconds 
+Time to speak audio: 2.600224256515503
+The entire process took: 15.233009576797485 seconds 
+Time to speak audio: 3.697321891784668
+The entire process took: 6.281245708465576 seconds 
+Time to speak audio: 3.700552225112915
+The entire process took: 10.477453708648682 seconds 
+Time to speak audio: 3.70139479637146
+The entire process took: 8.841107606887817 seconds 
+Time to speak audio: 3.5146424770355225
+The entire process took: 12.496621370315552 seconds 
+Time to speak audio: 3.6959550380706787
+The entire process took: 5.2660863399505615 seconds 
+Time to speak audio: 2.5645220279693604
+The entire process took: 4.17201566696167 seconds 
+Time to speak audio: 7.033456802368164
+The entire process took: 8.75651216506958 seconds 
+Time to speak audio: 7.845991134643555
+The entire process took: 24.17823600769043 seconds 
+Time to speak audio: 7.84191370010376
+The entire process took: 15.933000802993774 seconds 
+Time to speak audio: 7.844239950180054
+The entire process took: 16.672288179397583 seconds 
+Time to speak audio: 7.842636823654175
+The entire process took: 24.32364273071289 seconds 
+Time to speak audio: 7.844366073608398
+The entire process took: 12.93236255645752 seconds 
+Time to speak audio: 7.84670615196228
+The entire process took: 53.00456166267395 seconds 
+Time to speak audio: 7.8504579067230225
+The entire process took: 15.571090459823608 seconds 
+Time to speak audio: 2.633009433746338
+The entire process took: 72.70281744003296 seconds 
+Time to speak audio: 2.563800096511841
+The entire process took: 11.551758050918579 seconds 
+Time to speak audio: 2.5651628971099854
+The entire process took: 3.5705392360687256 seconds 
+Time to speak audio: 2.5642378330230713
+The entire process took: 4.879919052124023 seconds 
+Time to speak audio: 2.56366229057312
+The entire process took: 11.853088855743408 seconds 
+Time to speak audio: 2.5639171600341797
+The entire process took: 8.611279010772705 seconds 
+Time to speak audio: 2.5632846355438232
+The entire process took: 11.487329721450806 seconds 
+Time to speak audio: 2.565352439880371
+The entire process took: 3.7966625690460205 seconds 
+Time to speak audio: 2.5647788047790527
+The entire process took: 11.657076597213745 seconds 
+Time to speak audio: 2.565164566040039
+The entire process took: 43.713468074798584 seconds 
+Time to speak audio: 2.5636775493621826
+The entire process took: 5.855268478393555 seconds 
+Time to speak audio: 2.5638933181762695
+The entire process took: 9.912000179290771 seconds 
+Time to speak audio: 2.563595771789551
+The entire process took: 6.220636367797852 seconds 
+Time to speak audio: 2.022054672241211
+The entire process took: 4.543032169342041 seconds 
+Time to speak audio: 7.841912269592285
+The entire process took: 10.746699810028076 seconds 
+Time to speak audio: 7.884786128997803
+The entire process took: 53.98509407043457 seconds 
+Time to speak audio: 7.848524570465088
+The entire process took: 50.78568172454834 seconds 
