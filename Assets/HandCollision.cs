@@ -40,49 +40,65 @@ public class HandCollision : MonoBehaviour
     void Update()
     {
         // Check if the distance between the headset and the spine is less than 0.8f
-        if (Vector3.Distance(headset.transform.position, spine.transform.position) < 0.8f)
-        {
-            // Set the rig to true and enable the RigBuilder
-            rig.gameObject.SetActive(true);
-            avatar.GetComponent<RigBuilder>().enabled = true;
-            // Play the haptic feedback
-            BhapticsLibrary.Play("vest");
-            BhapticsLibrary.Play("left_hand");
-            BhapticsLibrary.Play("right_hand");
-            // Set the shaking animation to false
-            animator.SetBool("Shaking", false);
-            RHFollow.transform.position = Vector3.MoveTowards(RHFollow.transform.position, RHLocation.transform.position, 0.01f);
-            LHFollow.transform.position = Vector3.MoveTowards(LHFollow.transform.position, LHLocation.transform.position, 0.01f);
-        }
+        // if (Vector3.Distance(headset.transform.position, spine.transform.position) < 0.8f)
+        // {
+        //     // Set the rig to true and enable the RigBuilder
+        //     rig.gameObject.SetActive(true);
+        //     avatar.GetComponent<RigBuilder>().enabled = true;
+        //     // Play the haptic feedback
+        //     BhapticsLibrary.Play("vest");
+        //     BhapticsLibrary.Play("left_hand");
+        //     BhapticsLibrary.Play("right_hand");
+        //     // Set the shaking animation to false
+        //     animator.SetBool("Shaking", false);
+        //     RHFollow.transform.position = Vector3.MoveTowards(RHFollow.transform.position, RHLocation.transform.position, 0.01f);
+        //     LHFollow.transform.position = Vector3.MoveTowards(LHFollow.transform.position, LHLocation.transform.position, 0.01f);
+        // }
         // Check if the distance between the user hand and the avatar hand is less than 1.25f
-        else if (Vector3.Distance(transform.position, hands.transform.position) < 1.25f)
-        {
-            RHFollow.transform.position = Vector3.MoveTowards(RHFollow.transform.position, prevPosRH, 0.01f);
-            LHFollow.transform.position = Vector3.MoveTowards(LHFollow.transform.position, prevPosLH, 0.01f);
-            // Stop the rig
-            rig.gameObject.SetActive(false);
-            // Disable the RigBuilder
-            avatar.GetComponent<RigBuilder>().enabled = false;
-            // Set the shaking animation to true
-            animator.SetBool("Shaking", true);
-            // Check if the distance between the user hand and the avatar hand is less than 0.25f
-            if (Vector3.Distance(transform.position, hands.transform.position) < 0.25f)
-            {
-                // Play the haptic feedback
-                BhapticsLibrary.Play("right_hand");
-            }
-        }
+        // else if (Vector3.Distance(transform.position, hands.transform.position) < 1.25f)
+        // {
+        //     RHFollow.transform.position = Vector3.MoveTowards(RHFollow.transform.position, prevPosRH, 0.01f);
+        //     LHFollow.transform.position = Vector3.MoveTowards(LHFollow.transform.position, prevPosLH, 0.01f);
+        //     // Stop the rig
+        //     rig.gameObject.SetActive(false);
+        //     // Disable the RigBuilder
+        //     avatar.GetComponent<RigBuilder>().enabled = false;
+        //     // Set the shaking animation to true
+        //     animator.SetBool("Shaking", true);
+        //     // Check if the distance between the user hand and the avatar hand is less than 0.25f
+        //     if (Vector3.Distance(transform.position, hands.transform.position) < 0.25f)
+        //     {
+        //         // Play the haptic feedback
+        //         BhapticsLibrary.Play("right_hand");
+        //     }
+        // }
         // Set the rig to false and disable the RigBuilder
-        else
+        // else
+        // {
+        // RHFollow.transform.position = Vector3.MoveTowards(RHFollow.transform.position, prevPosRH, 0.01f);
+        // LHFollow.transform.position = Vector3.MoveTowards(LHFollow.transform.position, prevPosLH, 0.01f);
+        // Set the shaking animation to false
+        // animator.SetBool("Shaking", false);
+        // Stop the rig
+        rig.gameObject.SetActive(false);
+        // Disable the RigBuilder
+        avatar.GetComponent<RigBuilder>().enabled = false;
+        // }
+        if (Input.GetKeyDown(KeyCode.H))
         {
-            RHFollow.transform.position = Vector3.MoveTowards(RHFollow.transform.position, prevPosRH, 0.01f);
-            LHFollow.transform.position = Vector3.MoveTowards(LHFollow.transform.position, prevPosLH, 0.01f);
-            // Set the shaking animation to false
+            animator.SetBool("Waving", true);
+        }
+        if (Input.GetKeyDown(KeyCode.J))
+        {
+            animator.SetBool("Waving", false);
+        }
+        if (Input.GetKeyDown(KeyCode.K))
+        {
+            animator.SetBool("Shaking", true);
+        }
+        if (Input.GetKeyDown(KeyCode.L))
+        {
             animator.SetBool("Shaking", false);
-            // Stop the rig
-            rig.gameObject.SetActive(false);
-            // Disable the RigBuilder
-            avatar.GetComponent<RigBuilder>().enabled = false;
         }
     }
 

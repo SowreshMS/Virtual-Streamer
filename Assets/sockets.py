@@ -19,34 +19,36 @@ conversation = [
     
 ]
 
-response = "Hi, welcome to the stream"
-client = texttospeech.TextToSpeechClient()
+response = ""
 
-# response = message.content + "? " + response
-ssml_text = '<speak>'
-response_counter = 0
-mark_array = []
-for s in response.split(' '):
-    ssml_text += f'<mark name="{response_counter}"/>{s}'
-    mark_array.append(s)
-    response_counter += 1
-ssml_text += '</speak>'
+# response = "Bye. Have a wonderful day!"
+# client = texttospeech.TextToSpeechClient()
 
-input_text = texttospeech.SynthesisInput(ssml=ssml_text)
+# # response = message.content + "? " + response
+# ssml_text = '<speak>'
+# response_counter = 0
+# mark_array = []
+# for s in response.split(' '):
+#     ssml_text += f'<mark name="{response_counter}"/>{s}'
+#     mark_array.append(s)
+#     response_counter += 1
+# ssml_text += '</speak>'
 
-voice = texttospeech.VoiceSelectionParams(
-    language_code="en-US",
-    name="en-US-Neural2-F",
-    ssml_gender=texttospeech.SsmlVoiceGender.FEMALE,
-)
+# input_text = texttospeech.SynthesisInput(ssml=ssml_text)
 
-audio_config = texttospeech.AudioConfig(
-    audio_encoding=texttospeech.AudioEncoding.MP3,
-)
+# voice = texttospeech.VoiceSelectionParams(
+#     language_code="en-US",
+#     name="en-US-Neural2-F",
+#     ssml_gender=texttospeech.SsmlVoiceGender.FEMALE,
+# )
 
-response = client.synthesize_speech(
-    request={"input": input_text, "voice": voice, "audio_config": audio_config, "enable_time_pointing": ["SSML_MARK"]}
-)
+# audio_config = texttospeech.AudioConfig(
+#     audio_encoding=texttospeech.AudioEncoding.MP3,
+# )
+
+# response = client.synthesize_speech(
+#     request={"input": input_text, "voice": voice, "audio_config": audio_config, "enable_time_pointing": ["SSML_MARK"]}
+# )
 
 
 def open_file(filepath):
@@ -111,20 +113,20 @@ def text_to_speech_and_play(audio_content):
     # Quit the mixer
     pygame.mixer.quit()
 
-time_thread = threading.Thread(target=text_to_speech_and_play, args=(response.audio_content,))
-time2_thread = threading.Thread(target=captions, args=(mark_array, response))
+# time_thread = threading.Thread(target=text_to_speech_and_play, args=(response.audio_content,))
+# time2_thread = threading.Thread(target=captions, args=(mark_array, response))
 
 
-time2_thread.start()
-time_thread.start()
+# time2_thread.start()
+# time_thread.start()
 
 
-time_thread.join()
-time2_thread.join()
+# time_thread.join()
+# time2_thread.join()
 
-recognizer = sr.Recognizer()
+# recognizer = sr.Recognizer()
 
-file_path = os.path.join(os.path.dirname(__file__), 'logs.txt')
+# file_path = os.path.join(os.path.dirname(__file__), 'logs.txt')
 
 # file = open(file_path, 'a')
 
@@ -164,22 +166,22 @@ while True:
 
     while True:
         if keyboard.is_pressed("q"):
-            response = "Hi, welcome"
+            response = "Hi, welcome!"
             break
         elif keyboard.is_pressed("w"):
             response = "I am Vivi, a streamer from the year 2050, where the real world and the virtual world collide into one."
             break
         elif keyboard.is_pressed("e"):
-            response = "I am doing good, how about you."
+            response = "I am doing good, how about you?"
             break
         elif keyboard.is_pressed("r"):
-            response = "Sure, I would love to play flappy bird"
+            response = "Sure, I would love to play flappy bird!"
             break
         elif keyboard.is_pressed("t"):
             response = "My highest score is 100, but I would love to beat it!"
             break
         elif keyboard.is_pressed("y"):
-            response = "Bye!"
+            response = "Bye. Have a wonderful day!"
             break
 
     # conversation.append({"role": "assistant", "content": response})
@@ -242,20 +244,20 @@ while True:
     time2_thread.join()
 
 
-    with open(r"C:\Users\Spher\Virtual-Streamer\Assets\speaker.txt", "w", encoding="utf-8") as out:
-        out.write("")
+    # with open(r"C:\Users\Spher\Virtual-Streamer\Assets\speaker.txt", "w", encoding="utf-8") as out:
+    #     out.write("")
 
 
     
-    with open(file_path, 'a') as file3:
-        file3.write(f"Time to speak audio: {time.time() - start4}\n")
+    # with open(file_path, 'a') as file3:
+    #     file3.write(f"Time to speak audio: {time.time() - start4}\n")
 
-    print(f"Time to speak audio: {time.time() - start4}\n")
+    # print(f"Time to speak audio: {time.time() - start4}\n")
 
-    with open(file_path, 'a') as file3:
-        file3.write(f'The entire process took: {time.time() - start} seconds \n')
+    # with open(file_path, 'a') as file3:
+    #     file3.write(f'The entire process took: {time.time() - start} seconds \n')
     
-    print(f'The entire process took: {time.time() - start} seconds \n')
+    # print(f'The entire process took: {time.time() - start} seconds \n')
 
     # with open(file_path, 'r') as file2:
     #     print(file2.read())

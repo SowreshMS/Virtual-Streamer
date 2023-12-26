@@ -4339,3 +4339,427 @@ Time to speak audio: 7.884786128997803
 The entire process took: 53.98509407043457 seconds 
 Time to speak audio: 7.848524570465088
 The entire process took: 50.78568172454834 seconds 
+Time to speak audio: 2.562191963195801
+The entire process took: 7.836655855178833 seconds 
+Time to speak audio: 7.829327583312988
+The entire process took: 8.382412672042847 seconds 
+Time to speak audio: 2.5628652572631836
+The entire process took: 6.982008457183838 seconds 
+Time to speak audio: 7.840511322021484
+The entire process took: 69.37926292419434 seconds 
+Time to speak audio: 4.398326396942139
+The entire process took: 4.731168031692505 seconds 
+Time to speak audio: 5.213318347930908
+The entire process took: 6.993113279342651 seconds 
+Time to speak audio: 3.692680835723877
+The entire process took: 4.612513065338135 seconds 
+Time to speak audio: 4.360860824584961
+The entire process took: 5.457280158996582 seconds 
+Time to speak audio: 5.215465784072876
+The entire process took: 10.126482486724854 seconds 
+Time to speak audio: 4.361850738525391
+The entire process took: 5.610434055328369 seconds 
+Time to speak audio: 2.00396728515625
+The entire process took: 10.619412899017334 seconds 
+Time to speak audio: 5.209749937057495
+The entire process took: 7.596197128295898 seconds 
+Time to speak audio: 3.690962553024292
+The entire process took: 3.844773769378662 seconds 
+Time to speak audio: 5.216974973678589
+The entire process took: 44.39936637878418 seconds 
+Time to speak audio: 3.693192958831787
+The entire process took: 11.450868844985962 seconds 
+Time to speak audio: 4.367324352264404
+The entire process took: 29.448379039764404 seconds 
+Time to speak audio: 5.284311294555664
+The entire process took: 24.016903400421143 seconds 
+Time to speak audio: 7.833710432052612
+The entire process took: 54.555731534957886 seconds 
+Time to speak audio: 3.692493438720703
+The entire process took: 7.641694068908691 seconds 
+Time to speak audio: 4.360564708709717
+The entire process took: 7.349565744400024 seconds 
+Time to speak audio: 2.575406551361084
+The entire process took: 8.015996932983398 seconds 
+Time to speak audio: 7.067653656005859
+The entire process took: 11.174746036529541 seconds 
+Time to speak audio: 7.834759950637817
+The entire process took: 12.535008430480957 seconds 
+Time to speak audio: 3.6353540420532227
+The entire process took: 7.881568431854248 seconds 
+Time to speak audio: 4.558000326156616
+The entire process took: 8.837414264678955 seconds 
+Time to speak audio: 5.214125633239746
+The entire process took: 18.43597650527954 seconds 
+Time to speak audio: 2.5763790607452393
+The entire process took: 13.072688341140747 seconds 
+Time to speak audio: 7.830338954925537
+The entire process took: 9.066820859909058 seconds 
+Time to speak audio: 3.635349750518799
+The entire process took: 5.222745895385742 seconds 
+Time to speak audio: 4.589259147644043
+The entire process took: 9.885555267333984 seconds 
+Time to speak audio: 5.211827516555786
+The entire process took: 13.493685245513916 seconds 
+Time to speak audio: 2.0044827461242676
+The entire process took: 7.4054200649261475 seconds 
+Time to speak audio: 2.1295809745788574
+The entire process took: 4.737619876861572 seconds 
+Time to speak audio: 2.0051252841949463
+The entire process took: 2.6785712242126465 seconds 
+Time to speak audio: 7.836221933364868
+The entire process took: 280.30828881263733 seconds 
+Time to speak audio: 3.6334292888641357
+The entire process took: 3.7673323154449463 seconds 
+Time to speak audio: 4.394545316696167
+The entire process took: 4.559796333312988 seconds 
+Time to speak audio: 2.493506908416748
+The entire process took: 2.998436212539673 seconds 
+Time to speak audio: 5.211960554122925
+The entire process took: 5.973068475723267 seconds 
+Time to speak audio: 2.5760703086853027
+The entire process took: 15.584649085998535 seconds 
+Time to speak audio: 3.631143808364868
+The entire process took: 139.38309144973755 seconds 
+Time to speak audio: 2.581153392791748
+The entire process took: 67.66322493553162 seconds 
+Time to speak audio: 2.5764691829681396
+The entire process took: 14.093794345855713 seconds 
+Time to speak audio: 7.029404401779175
+The entire process took: 9.561841011047363 seconds 
+Time to speak audio: 7.862267255783081
+The entire process took: 10.357094526290894 seconds 
+Time to speak audio: 2.5733449459075928
+The entire process took: 124.84280109405518 seconds 
+Time to speak audio: 3.6397178173065186
+The entire process took: 126.7231912612915 seconds 
+Time to speak audio: 8.464315176010132
+The entire process took: 17.893152713775635 seconds 
+Time to speak audio: 8.689688444137573
+The entire process took: 19.16697859764099 seconds 
+Time to speak audio: 3.649275064468384
+The entire process took: 38.3868408203125 seconds 
+Time to speak audio: 3.6917524337768555
+The entire process took: 38.69719314575195 seconds 
+Time to speak audio: 0.04808974266052246
+The entire process took: 67.52710604667664 seconds 
+Time to speak audio: 4.36299729347229
+Time to speak audio: 4.411557197570801
+The entire process took: 150.17599058151245 seconds 
+The entire process took: 150.27242803573608 seconds 
+Time to speak audio: 3.634422779083252
+The entire process took: 17.00960612297058 seconds 
+Time to speak audio: 3.6349995136260986
+The entire process took: 17.017659425735474 seconds 
+Time to speak audio: 2.575671672821045
+The entire process took: 14.581255912780762 seconds 
+Time to speak audio: 5.212477207183838
+The entire process took: 73.44676876068115 seconds 
+Time to speak audio: 5.815212965011597
+The entire process took: 52.957805156707764 seconds 
+Time to speak audio: 7.138215065002441
+The entire process took: 51.6482720375061 seconds 
+Time to speak audio: 2.1928954124450684
+The entire process took: 68.4569501876831 seconds 
+Time to speak audio: 2.0061416625976562
+The entire process took: 8.49293565750122 seconds 
+Time to speak audio: 2.004930257797241
+The entire process took: 2.6480472087860107 seconds 
+Time to speak audio: 3.6418378353118896
+The entire process took: 3.7891502380371094 seconds 
+Time to speak audio: 5.310594081878662
+The entire process took: 39.91714358329773 seconds 
+Time to speak audio: 7.874317646026611
+The entire process took: 22.585342407226562 seconds 
+Time to speak audio: 3.6444544792175293
+The entire process took: 17.180455684661865 seconds 
+Time to speak audio: 3.6595706939697266
+The entire process took: 3.81278657913208 seconds 
+Time to speak audio: 5.242116689682007
+The entire process took: 10.899944067001343 seconds 
+Time to speak audio: 7.858344793319702
+The entire process took: 41.08804202079773 seconds 
+Time to speak audio: 3.6498587131500244
+The entire process took: 32.977073669433594 seconds 
+Time to speak audio: 2.574284791946411
+The entire process took: 21.5557644367218 seconds 
+Time to speak audio: 7.822123289108276
+The entire process took: 11.466657638549805 seconds 
+Time to speak audio: 3.6319496631622314
+The entire process took: 8.594794273376465 seconds 
+Time to speak audio: 4.554447412490845
+The entire process took: 10.695523023605347 seconds 
+Time to speak audio: 5.20627498626709
+The entire process took: 7.782683372497559 seconds 
+Time to speak audio: 2.003303050994873
+The entire process took: 12.215723514556885 seconds 
+Time to speak audio: 2.004490852355957
+The entire process took: 5.662910461425781 seconds 
+Time to speak audio: 2.575298309326172
+The entire process took: 14.203778982162476 seconds 
+Time to speak audio: 7.825071096420288
+The entire process took: 9.172472715377808 seconds 
+Time to speak audio: 3.6331706047058105
+The entire process took: 8.106471538543701 seconds 
+Time to speak audio: 4.553080797195435
+The entire process took: 14.069969892501831 seconds 
+Time to speak audio: 5.205825328826904
+The entire process took: 7.725966930389404 seconds 
+Time to speak audio: 2.0036606788635254
+The entire process took: 9.016447067260742 seconds 
+Time to speak audio: 7.829696893692017
+The entire process took: 86.4994170665741 seconds 
+Time to speak audio: 7.826892375946045
+The entire process took: 22.50338864326477 seconds 
+Time to speak audio: 2.5749294757843018
+The entire process took: 59.49068880081177 seconds 
+Time to speak audio: 7.829514741897583
+The entire process took: 8.927672863006592 seconds 
+Time to speak audio: 3.6624622344970703
+The entire process took: 6.751930475234985 seconds 
+Time to speak audio: 4.5619025230407715
+The entire process took: 22.886640787124634 seconds 
+Time to speak audio: 5.212534666061401
+The entire process took: 6.099891662597656 seconds 
+Time to speak audio: 2.051018714904785
+The entire process took: 4.379746198654175 seconds 
+Time to speak audio: 2.00407338142395
+The entire process took: 17.174291610717773 seconds 
+Time to speak audio: 2.0049893856048584
+The entire process took: 2.9425370693206787 seconds 
+Time to speak audio: 2.5775389671325684
+The entire process took: 271.2496256828308 seconds 
+Time to speak audio: 7.845815658569336
+The entire process took: 9.223158836364746 seconds 
+Time to speak audio: 3.6399266719818115
+The entire process took: 7.893691778182983 seconds 
+Time to speak audio: 4.5640881061553955
+The entire process took: 41.292932987213135 seconds 
+Time to speak audio: 5.220044851303101
+The entire process took: 6.9794628620147705 seconds 
+Time to speak audio: 2.0054056644439697
+The entire process took: 4.506162405014038 seconds 
+Time to speak audio: 7.82838773727417
+The entire process took: 20.040730953216553 seconds 
+Time to speak audio: 2.5753304958343506
+The entire process took: 5.305933475494385 seconds 
+Time to speak audio: 4.554527759552002
+The entire process took: 7.362580060958862 seconds 
+Time to speak audio: 7.827803611755371
+The entire process took: 19.98745822906494 seconds 
+Time to speak audio: 2.5743119716644287
+The entire process took: 3.7230770587921143 seconds 
+Time to speak audio: 3.6333301067352295
+The entire process took: 4.112405776977539 seconds 
+Time to speak audio: 5.208672523498535
+The entire process took: 6.702922821044922 seconds 
+Time to speak audio: 2.5763943195343018
+The entire process took: 27.597084045410156 seconds 
+Time to speak audio: 7.827620983123779
+The entire process took: 9.76631236076355 seconds 
+Time to speak audio: 2.5804686546325684
+The entire process took: 33.19746446609497 seconds 
+Time to speak audio: 7.047155857086182
+The entire process took: 9.23028826713562 seconds 
+Time to speak audio: 3.6360652446746826
+The entire process took: 5.4780027866363525 seconds 
+Time to speak audio: 4.605510473251343
+The entire process took: 6.229197978973389 seconds 
+Time to speak audio: 5.216442108154297
+The entire process took: 6.547154426574707 seconds 
+Time to speak audio: 2.0053586959838867
+The entire process took: 5.310791969299316 seconds 
+Time to speak audio: 2.007641077041626
+The entire process took: 76.2870934009552 seconds 
+Time to speak audio: 2.576892375946045
+The entire process took: 90.06670618057251 seconds 
+Time to speak audio: 7.841033697128296
+The entire process took: 11.650026321411133 seconds 
+Time to speak audio: 3.6374597549438477
+The entire process took: 8.551344156265259 seconds 
+Time to speak audio: 4.564319133758545
+The entire process took: 8.879929542541504 seconds 
+Time to speak audio: 4.407733678817749
+The entire process took: 6.434609413146973 seconds 
+Time to speak audio: 2.005743980407715
+The entire process took: 4.68960165977478 seconds 
+Time to speak audio: 5.224596977233887
+The entire process took: 212.6909339427948 seconds 
+Time to speak audio: 3.854646682739258
+The entire process took: 1166.3444781303406 seconds 
+Time to speak audio: 2.5746355056762695
+The entire process took: 166.97045159339905 seconds 
+Time to speak audio: 7.823697328567505
+The entire process took: 18.147358655929565 seconds 
+Time to speak audio: 3.6321628093719482
+The entire process took: 6.7669243812561035 seconds 
+Time to speak audio: 4.554217576980591
+The entire process took: 7.5928261280059814 seconds 
+Time to speak audio: 2.5764505863189697
+The entire process took: 285.07930302619934 seconds 
+Time to speak audio: 2.5751757621765137
+The entire process took: 18.085463047027588 seconds 
+Time to speak audio: 2.5754048824310303
+The entire process took: 5.430502891540527 seconds 
+Time to speak audio: 2.5761866569519043
+The entire process took: 4.9521613121032715 seconds 
+Time to speak audio: 2.574910879135132
+The entire process took: 5.5361645221710205 seconds 
+Time to speak audio: 2.5753567218780518
+The entire process took: 135.95514917373657 seconds 
+Time to speak audio: 6.994519948959351
+The entire process took: 9.162457942962646 seconds 
+Time to speak audio: 2.5747008323669434
+The entire process took: 136.4507565498352 seconds 
+Time to speak audio: 7.024933338165283
+The entire process took: 7.849013328552246 seconds 
+Time to speak audio: 2.6918528079986572
+The entire process took: 169.8760426044464 seconds 
+Time to speak audio: 2.577812433242798
+The entire process took: 19.240156888961792 seconds 
+Time to speak audio: 7.034998655319214
+The entire process took: 9.57492995262146 seconds 
+Time to speak audio: 4.5623931884765625
+The entire process took: 27.24151110649109 seconds 
+Time to speak audio: 5.216812610626221
+The entire process took: 20.96501898765564 seconds 
+Time to speak audio: 3.53365159034729
+The entire process took: 12.92187762260437 seconds 
+Time to speak audio: 7.057451486587524
+The entire process took: 16.09697461128235 seconds 
+Time to speak audio: 2.576566457748413
+The entire process took: 85.46378207206726 seconds 
+Time to speak audio: 2.5755414962768555
+The entire process took: 86.18399238586426 seconds 
+Time to speak audio: 7.833204507827759
+The entire process took: 10.585233449935913 seconds 
+Time to speak audio: 3.639709949493408
+The entire process took: 6.7983927726745605 seconds 
+Time to speak audio: 4.563122749328613
+The entire process took: 9.50195860862732 seconds 
+Time to speak audio: 5.215512037277222
+The entire process took: 17.722663402557373 seconds 
+Time to speak audio: 3.532182216644287
+The entire process took: 8.67007040977478 seconds 
+Time to speak audio: 2.576446771621704
+The entire process took: 138.25459146499634 seconds 
+Time to speak audio: 7.837423801422119
+The entire process took: 9.459457874298096 seconds 
+Time to speak audio: 3.636120080947876
+The entire process took: 12.898396015167236 seconds 
+Time to speak audio: 4.562740325927734
+The entire process took: 8.729759454727173 seconds 
+Time to speak audio: 5.217618465423584
+The entire process took: 12.058117151260376 seconds 
+Time to speak audio: 3.5328876972198486
+The entire process took: 9.3677659034729 seconds 
+Time to speak audio: 2.5757253170013428
+The entire process took: 128.6305103302002 seconds 
+Time to speak audio: 7.8405492305755615
+The entire process took: 10.060045719146729 seconds 
+Time to speak audio: 3.6359827518463135
+The entire process took: 13.559732913970947 seconds 
+Time to speak audio: 2.576749563217163
+The entire process took: 90.99602699279785 seconds 
+Time to speak audio: 7.835638999938965
+The entire process took: 9.579573631286621 seconds 
+Time to speak audio: 3.635692596435547
+The entire process took: 8.6864013671875 seconds 
+Time to speak audio: 4.5617454051971436
+The entire process took: 8.624699592590332 seconds 
+Time to speak audio: 5.228060483932495
+The entire process took: 12.444214105606079 seconds 
+Time to speak audio: 3.5304176807403564
+The entire process took: 10.118051052093506 seconds 
+Time to speak audio: 3.5333993434906006
+The entire process took: 5.344089031219482 seconds 
+Time to speak audio: 7.853036880493164
+The entire process took: 255.17566347122192 seconds 
+Time to speak audio: 4.360761880874634
+The entire process took: 4.654128313064575 seconds 
+Time to speak audio: 3.638511896133423
+The entire process took: 4.3935227394104 seconds 
+Time to speak audio: 4.561452627182007
+The entire process took: 5.593536376953125 seconds 
+Time to speak audio: 5.2188684940338135
+The entire process took: 5.995333194732666 seconds 
+Time to speak audio: 3.635976552963257
+The entire process took: 5.69176983833313 seconds 
+Time to speak audio: 5.392145395278931
+The entire process took: 6.197599649429321 seconds 
+Time to speak audio: 4.562828063964844
+The entire process took: 11.089930772781372 seconds 
+Time to speak audio: 7.937190771102905
+The entire process took: 9.174190044403076 seconds 
+Time to speak audio: 5.2264580726623535
+The entire process took: 7.9303297996521 seconds 
+Time to speak audio: 3.535490036010742
+The entire process took: 122.59745693206787 seconds 
+Time to speak audio: 7.83745551109314
+The entire process took: 21.65162205696106 seconds 
+Time to speak audio: 3.531963586807251
+The entire process took: 13.78618597984314 seconds 
+Time to speak audio: 3.530503511428833
+The entire process took: 12.743133544921875 seconds 
+Time to speak audio: 7.9240546226501465
+The entire process took: 112.66807699203491 seconds 
+Time to speak audio: 3.643371105194092
+The entire process took: 78.43870091438293 seconds 
+Time to speak audio: 7.830016851425171
+The entire process took: 10.265287637710571 seconds 
+Time to speak audio: 3.539184093475342
+The entire process took: 162.64911937713623 seconds 
+Time to speak audio: 4.573126316070557
+The entire process took: 87.24837565422058 seconds 
+Time to speak audio: 3.542062997817993
+The entire process took: 75.12611699104309 seconds 
+Time to speak audio: 3.6805691719055176
+The entire process took: 222.79315638542175 seconds 
+Time to speak audio: 3.6337153911590576
+The entire process took: 4.683990240097046 seconds 
+Time to speak audio: 3.633565664291382
+The entire process took: 5.252531051635742 seconds 
+Time to speak audio: 3.636280059814453
+The entire process took: 5.2886316776275635 seconds 
+Time to speak audio: 3.6347172260284424
+The entire process took: 4.112350702285767 seconds 
+Time to speak audio: 4.559743881225586
+The entire process took: 6.257073879241943 seconds 
+Time to speak audio: 5.214355707168579
+The entire process took: 19.830525159835815 seconds 
+Time to speak audio: 5.212682008743286
+The entire process took: 15.415875434875488 seconds 
+Time to speak audio: 5.213444471359253
+The entire process took: 7.058569431304932 seconds 
+Time to speak audio: 3.5332071781158447
+The entire process took: 4.5875890254974365 seconds 
+Time to speak audio: 5.215034008026123
+The entire process took: 5.337985038757324 seconds 
+Time to speak audio: 3.6337974071502686
+The entire process took: 3.7816689014434814 seconds 
+Time to speak audio: 3.6393685340881348
+The entire process took: 6.727274656295776 seconds 
+Time to speak audio: 3.634199857711792
+The entire process took: 4.230122089385986 seconds 
+Time to speak audio: 5.214444637298584
+The entire process took: 12.77048110961914 seconds 
+Time to speak audio: 5.211202383041382
+The entire process took: 39.18572974205017 seconds 
+Time to speak audio: 3.6341776847839355
+The entire process took: 12.13530969619751 seconds 
+Time to speak audio: 7.904761075973511
+The entire process took: 48.65345764160156 seconds 
+Time to speak audio: 3.635671377182007
+The entire process took: 3.932062864303589 seconds 
+Time to speak audio: 2.6274266242980957
+The entire process took: 30.537615299224854 seconds 
+Time to speak audio: 7.836863040924072
+The entire process took: 9.114309310913086 seconds 
+Time to speak audio: 4.560089349746704
+The entire process took: 4.974438905715942 seconds 
+Time to speak audio: 4.560896873474121
+The entire process took: 7.986531496047974 seconds 
+Time to speak audio: 5.215898275375366
+The entire process took: 6.754126787185669 seconds 
+Time to speak audio: 3.5297467708587646
+The entire process took: 7.201905012130737 seconds 
